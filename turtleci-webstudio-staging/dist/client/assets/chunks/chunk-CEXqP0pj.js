@@ -1,0 +1,1 @@
+import{r as e,R as s}from"./chunk-BV4725Lg.js";const n=e.forwardRef(({value:t,defaultValue:a,...r},c)=>{const{renderer:l}=e.useContext(s),o=l==="canvas"?String(t??a):void 0;return e.createElement("select",{...r,key:o,defaultValue:t??a,ref:c})});n.displayName="Select";export{n as p};

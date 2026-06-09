@@ -13,6 +13,10 @@ src-tauri/target
 turtleci-astro
 Chimedeck
 turtleci-webstudio-staging/node_modules
-turtleci-webstudio-staging/dist
+turtleci-webstudio-staging/dist/*
+!turtleci-webstudio-staging/dist/client/
+!turtleci-webstudio-staging/dist/client/**
+turtleci-webstudio-staging/.webstudio/auth.json
+turtleci-webstudio-staging/.webstudio/config.json
 webstudio-builder/.git.upstream-backup
 webstudio-builder/apps/builder/.env
