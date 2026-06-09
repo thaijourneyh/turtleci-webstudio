@@ -92,3 +92,12 @@ test("parseBuilderUrl apps.webstudio.is", async () => {
     }
   `);
 });
+
+test("parseBuilderUrl vite.wstd.dev normalizes to wstd.dev", async () => {
+  expect(parseBuilderUrl("https://vite.wstd.dev:5174")).toMatchInlineSnapshot(`
+    {
+      "projectId": undefined,
+      "sourceOrigin": "https://wstd.dev:5174",
+    }
+  `);
+});

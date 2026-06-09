@@ -147,7 +147,7 @@ await run("Import TurtleCI Webflow project into local editor", "node", [
 console.log("\n> Starting Webstudio Builder");
 console.log("> Login secret: 0000");
 console.log("> Local editor will use persistent state in .webstudio-home/");
-console.log("> Open: https://vite.wstd.dev:5174/dashboard");
+console.log("> Open: https://wstd.dev:5174/dashboard");
 
 const builder = spawn("pnpm", ["--filter=@webstudio-is/builder", "dev"], {
   cwd: builderDir,

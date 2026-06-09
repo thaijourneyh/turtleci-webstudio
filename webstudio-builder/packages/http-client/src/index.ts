@@ -114,6 +114,15 @@ export const parseBuilderUrl = (urlStr: string) => {
   const branch = match?.groups?.branch;
 
   if (prefix !== buildProjectDomainPrefix) {
+    if (url.hostname === "vite.wstd.dev") {
+      const sourceUrl = new URL(url.origin);
+      sourceUrl.protocol = "https";
+      sourceUrl.hostname = "wstd.dev";
+      return {
+        projectId: undefined,
+        sourceOrigin: sourceUrl.origin,
+      };
+    }
     return {
       projectId: undefined,
       sourceOrigin: url.origin,
