@@ -1,0 +1,32 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Marketing Webflow Cleaner",
+  "version": "0.1.0",
+  "identifier": "com.local.marketing-webflow-cleaner",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Marketing Webflow Cleaner",
+        "width": 1480,
+        "height": 920,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["app"],
+    "macOS": {
+      "minimumSystemVersion": "13.0"
+    }
+  }
+}

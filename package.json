@@ -1,0 +1,39 @@
+{
+  "name": "marketing-webflow-cleaner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri",
+    "turtleci:webstudio:import": "node scripts/turtleci-webstudio-import.mjs",
+    "turtleci:webstudio:sync": "node scripts/turtleci-webstudio-sync.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "@tauri-apps/api": "2.10.1",
+    "@tiptap/extension-image": "^3.22.2",
+    "@tiptap/extension-link": "^3.22.2",
+    "@tiptap/extension-placeholder": "^3.22.2",
+    "@tiptap/react": "^3.22.2",
+    "@tiptap/starter-kit": "^3.22.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "2.10.1",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "jsdom": "^25.0.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  }
+}
