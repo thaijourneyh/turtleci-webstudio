@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "tauri": "tauri",
+    "turtleci:webstudio:autopublish": "node scripts/turtleci-webstudio-autopublish.mjs",
     "turtleci:webstudio:editor": "node scripts/turtleci-webstudio-editor-start.mjs",
     "turtleci:webstudio:import": "node scripts/turtleci-webstudio-import.mjs",
     "turtleci:webstudio:publish": "node scripts/turtleci-webstudio-publish.mjs",

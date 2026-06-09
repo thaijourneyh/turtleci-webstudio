@@ -7,6 +7,8 @@ import http from "node:http";
 const rootDir = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const builderDir = resolve(rootDir, "webstudio-builder");
 const composeFile = resolve(rootDir, "docker-compose.webstudio-local.yml");
+const pgPort = process.env.PGPORT ?? "5433";
+const postgrestPort = process.env.POSTGREST_PORT ?? "3001";
 
 const env = {
   ...process.env,
@@ -17,14 +19,24 @@ const env = {
   COREPACK_HOME:
     process.env.COREPACK_HOME ?? "/Users/thaitran/.cache/node/corepack",
   NODE_TLS_REJECT_UNAUTHORIZED: process.env.NODE_TLS_REJECT_UNAUTHORIZED ?? "0",
+  PGPORT: pgPort,
+  POSTGREST_PORT: postgrestPort,
+  DATABASE_URL:
+    process.env.DATABASE_URL ??
+    `postgresql://postgres:pass@127.0.0.1:${pgPort}/webstudio?pgbouncer=true`,
+  DIRECT_URL:
+    process.env.DIRECT_URL ??
+    `postgresql://postgres:pass@127.0.0.1:${pgPort}/webstudio`,
+  POSTGREST_URL:
+    process.env.POSTGREST_URL ?? `http://127.0.0.1:${postgrestPort}`,
 };
 
-const run = (label, command, args, cwd = rootDir) =>
+const run = (label, command, args, options = {}) =>
   new Promise((resolveRun, reject) => {
     console.log(`\n> ${label}`);
     const child = spawn(command, args, {
-      cwd,
-      env,
+      cwd: options.cwd ?? rootDir,
+      env: options.env ?? env,
       stdio: "inherit",
     });
     child.on("error", reject);
@@ -77,24 +89,30 @@ const waitForHttp = (url, timeoutMs = 120000) =>
     tryRequest();
   });
 
-await run("Start local Postgres and PostgREST", "docker", [
-  "compose",
-  "-f",
-  composeFile,
-  "up",
-  "-d",
-]);
+await run(
+  "Start local Postgres and PostgREST",
+  "/bin/zsh",
+  ["-lc", `/usr/local/bin/docker compose -f '${composeFile}' up -d`],
+  {
+    env: {
+      ...process.env,
+      PATH: env.PATH,
+    },
+  }
+);
 
-console.log("\n> Waiting for Postgres on 127.0.0.1:5432");
-await waitForTcp(5432);
+console.log(`\n> Waiting for Postgres on 127.0.0.1:${pgPort}`);
+await waitForTcp(Number(pgPort));
 
-console.log("> Waiting for PostgREST on http://127.0.0.1:3000");
-await waitForHttp("http://127.0.0.1:3000");
+console.log(`> Waiting for PostgREST on http://127.0.0.1:${postgrestPort}`);
+await waitForHttp(`http://127.0.0.1:${postgrestPort}`);
 
 await run("Generate Prisma client", "pnpm", [
   "--filter=@webstudio-is/prisma-client",
   "generate",
-], builderDir);
+], {
+  cwd: builderDir,
+});
 
 await run("Apply Webstudio migrations", "pnpm", [
   "--filter=@webstudio-is/prisma-client",
@@ -103,7 +121,9 @@ await run("Apply Webstudio migrations", "pnpm", [
   "--dev",
   "--cwd",
   "../../apps/builder",
-], builderDir);
+], {
+  cwd: builderDir,
+});
 
 console.log("\n> Starting Webstudio Builder");
 console.log("> Login secret: 0000");

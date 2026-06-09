@@ -9,7 +9,7 @@ services:
       POSTGRES_PASSWORD: pass
       POSTGRES_DB: webstudio
     ports:
-      - "5432:5432"
+      - "${PGPORT:-5433}:5432"
     volumes:
       - webstudio-postgres-data:/var/lib/postgresql/data
     healthcheck:
@@ -32,7 +32,7 @@ services:
       PGRST_DB_USE_LEGACY_GUCS: "false"
       PGRST_APP_SETTINGS_JWT_SECRET: jwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecretjwtsecret
     ports:
-      - "3000:3000"
+      - "${POSTGREST_PORT:-3001}:3000"
 
 volumes:
   webstudio-postgres-data:

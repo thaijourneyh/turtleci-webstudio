@@ -83,3 +83,22 @@ You can also provide a custom commit message:
 ```sh
 npm run turtleci:webstudio:publish -- "Update homepage hero"
 ```
+
+## Automatic Publish Loop
+
+If you want GitHub and Vercel to keep updating automatically while you edit,
+run this in a second terminal:
+
+```sh
+npm run turtleci:webstudio:autopublish
+```
+
+This checks for changes every 60 seconds, rebuilds the current local Webstudio
+project, pushes any changed static output to GitHub, and lets Vercel redeploy
+from the push.
+
+You can change the interval:
+
+```sh
+PUBLISH_INTERVAL_SECONDS=120 npm run turtleci:webstudio:autopublish
+```
