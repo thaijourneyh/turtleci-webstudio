@@ -101,3 +101,16 @@ test("parseBuilderUrl vite.wstd.dev normalizes to wstd.dev", async () => {
     }
   `);
 });
+
+test("parseBuilderUrl project on vite.wstd.dev normalizes to project on wstd.dev", async () => {
+  expect(
+    parseBuilderUrl(
+      "https://p-a99d5fa7-683f-4129-974a-e8564180e8df.vite.wstd.dev:5174"
+    )
+  ).toMatchInlineSnapshot(`
+    {
+      "projectId": "a99d5fa7-683f-4129-974a-e8564180e8df",
+      "sourceOrigin": "https://wstd.dev:5174",
+    }
+  `);
+});

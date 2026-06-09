@@ -99,6 +99,14 @@ export const loadProjectDataByProjectId = async (params: {
 // For easier detecting the builder URL
 const buildProjectDomainPrefix = "p-";
 
+const normalizeLocalDevSourceUrl = (sourceUrl: URL) => {
+  if (sourceUrl.hostname === "vite.wstd.dev") {
+    sourceUrl.protocol = "https";
+    sourceUrl.hostname = "wstd.dev";
+  }
+  return sourceUrl;
+};
+
 export const parseBuilderUrl = (urlStr: string) => {
   const url = new URL(urlStr);
 
@@ -115,9 +123,7 @@ export const parseBuilderUrl = (urlStr: string) => {
 
   if (prefix !== buildProjectDomainPrefix) {
     if (url.hostname === "vite.wstd.dev") {
-      const sourceUrl = new URL(url.origin);
-      sourceUrl.protocol = "https";
-      sourceUrl.hostname = "wstd.dev";
+      const sourceUrl = normalizeLocalDevSourceUrl(new URL(url.origin));
       return {
         projectId: undefined,
         sourceOrigin: sourceUrl.origin,
@@ -138,9 +144,11 @@ export const parseBuilderUrl = (urlStr: string) => {
 
   fragments[0] = fragments[0].replace(re, branch ?? "");
 
-  const sourceUrl = new URL(url.origin);
+  const sourceUrl = normalizeLocalDevSourceUrl(new URL(url.origin));
   sourceUrl.protocol = "https";
   sourceUrl.host = fragments.filter(Boolean).join(".");
+
+  normalizeLocalDevSourceUrl(sourceUrl);
 
   return {
     projectId,
