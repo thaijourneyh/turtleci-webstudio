@@ -1,13 +1,22 @@
 # TurtleCI Webstudio Migration Workflow
 
-Use Webstudio for visual editing, then run the sync command after copying more
-from Webflow.
+Use Webstudio for visual editing on your local machine, then publish the static
+staging output to GitHub so Vercel redeploys automatically.
 
 ## Editor
 
-- Builder URL: `https://p-a99d5fa7-683f-4129-974a-e8564180e8df.wstd.dev:5173/`
+- Start command: `npm run turtleci:webstudio:editor`
+- Builder URL: `http://127.0.0.1:5173/`
 - Login secret: `0000`
 - Local editor state: `.webstudio-home/`
+
+This command:
+
+1. Starts local Postgres and PostgREST with Docker.
+2. Applies Webstudio migrations.
+3. Starts the local Webstudio Builder.
+
+Keep this terminal running while editing.
 
 Important: the local builder must use a persistent home directory. If it runs
 with `WEBSTUDIO_HOME` pointing at `/private/tmp`, project edits can disappear on
@@ -51,3 +60,26 @@ selectors such as `.container-lg`, `.pricing_list`, `.swiper-slide`, and
 `.text-style-3lines`. Webstudio may preserve the style source names internally
 without rendering those names as DOM classes. The sync command turns those style
 source names back into actual `class` props so copied Webflow CSS can match.
+
+## Publish To GitHub And Vercel
+
+Run this from the workspace root after making edits in the local Webstudio
+Builder:
+
+```sh
+npm run turtleci:webstudio:publish
+```
+
+This command:
+
+1. Rebuilds the static staging export from the current local Webstudio project.
+2. Stages `turtleci-webstudio-staging/dist/client`.
+3. Creates a git commit.
+4. Pushes `main` to GitHub.
+5. Lets Vercel redeploy automatically from the git push.
+
+You can also provide a custom commit message:
+
+```sh
+npm run turtleci:webstudio:publish -- "Update homepage hero"
+```
