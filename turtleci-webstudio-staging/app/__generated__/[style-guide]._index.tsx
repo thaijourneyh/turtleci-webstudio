@@ -11,11 +11,11 @@
 
       export const projectDomain = "turtleci-staging";
 
-      export const lastPublished = "2026-06-08T02:55:34.619Z";
+      export const lastPublished = "2026-06-09T07:15:29.598Z";
 
       export const siteName = undefined;
 
-      export const breakpoints = [{"id":"base"},{"id":"45f5c977-5f83-41e9-8b7d-9695fe51f7fc","maxWidth":991},{"id":"2e71b6b0-c8bf-44e8-9431-2362a90f8f4e","maxWidth":768},{"id":"a6f71109-250c-4881-b222-dd77b71daa01","maxWidth":767},{"id":"95e56516-8d86-425f-8f6b-4cf342440c91","maxWidth":479},{"id":"dcd00c70-1b4c-4d5e-88a5-9eed4ce9d845","minWidth":768}];
+      export const breakpoints = [{"id":"base"},{"id":"e8ff68f4-dfa4-4b4b-85d3-b344fd3124f3","maxWidth":991},{"id":"745b3d7d-ee2d-4f57-a585-684ecde78788","maxWidth":768},{"id":"4bd8cf14-661c-403d-906b-7f4dd6314b1d","maxWidth":767},{"id":"ef612b5b-f9c5-44ee-a19f-ffacebe27cd6","maxWidth":479},{"id":"fd73618b-33c4-431a-8752-9e45b5ddf95a","minWidth":768}];
 
       export const favIconAsset: string | undefined =
         undefined;
@@ -42,9 +42,9 @@ className={`w-html-embed`} />
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
 <div
-className={`w-element cm0u0jj c1nyqhf9 c1upswbh c14jek5s ctx8ibw ${"page-wrap"}`}>
+className={`w-element ${"page-wrap"}`}>
 <div
-className={`w-element c1chl3ha c1m333il cds5ulr c1rfbdao cxsker3 caoid09 c14jek5s ctx8ibw cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"global-styles w-embed"}`}>
+className={`w-element ${"global-styles w-embed"}`}>
 <HtmlEmbed
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
@@ -52,26 +52,26 @@ className={`w-html-embed`} />
 <div
 className={`w-element ${"fs-styleguide_component"}`}>
 <header
-className={`w-element c1f9hcp8 cue63w1 cnvuqy3 cw4hxr0 c1chl3ha cfko4c5 cmcjy5s c1ek6cds c16agd5o ${"fs-styleguide_header"}`}>
+className={`w-element ${"fs-styleguide_header"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element cq3v0d6 c1cmm6nn c1viuxvl cg2v6fb c13qfgf c7xx1rg cekxmt8 c10rtf3d c1cnynqc ${"fs-styleguide_header-block"}`}>
+className={`w-element ${"fs-styleguide_header-block"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160795-0ef646ba"}
-className={`w-element cue63w1 c3bspns c11warl2 ca09yfv c1at8wuf crjhvpn c1cihr4e c1lbtf55 cr860ff cezig9b caav141 c1lopt3j c1chu7bs c2w17zg cqm1fiw c1rkddb1 c2y6b7y c1tt49pc c1rwc4sm c1t335do c1cinhhj ${"fs-styleguide_hero-label"}`}>
+className={`w-element ${"fs-styleguide_hero-label"}`}>
 {"JH Framework — Version 1.0"}
 </div>
 <h1
-className={`w-element cha3p3 c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o cklrh9t cnghgtz ${"fs-styleguide_heading-header"}`}>
+className={`w-element ${"fs-styleguide_heading-header"}`}>
 {"Style Guide"}
 </h1>
 <div
-className={`w-element c1kuwk32 c3plzlj c15trozn ${"max-width-medium"}`}>
+className={`w-element ${"max-width-medium"}`}>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 {"Modified and used for Journey Horizon projects, based on Finsweet's client first style guide system."}
 </p>
 </div>
@@ -80,23 +80,23 @@ className={`w-element c14pm6dm ${"text-size-md"}`}>
 </div>
 </header>
 <section
-className={`w-element clchzch cbee7cb c1viuxvl cg2v6fb c13qfgf c10rtf3d ${"fs-styleguide_classes"}`}>
+className={`w-element ${"fs-styleguide_classes"}`}>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_structure"}`}>
+className={`w-element ${"fs-styleguide_structure"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section is-vertical"}`}>
+className={`w-element ${"fs-styleguide_section is-vertical"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Structure Classes"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Defined and flexible core structure we can use on all or most pages."}
@@ -106,100 +106,100 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"page-wrapp"}
 </div>
 <div
-className={`w-element cm0u0jj c1nyqhf9 c1upswbh c14jek5s ctx8ibw ${"page-wrap"}`}>
+className={`w-element ${"page-wrap"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"main-wrap"}
 </div>
 <main
 className={`w-element ${"main-wrap"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041607b4-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"container-sm"}
 </div>
 <div
-className={`w-element c1kuwk32 cmw01bb ctx8ibw c14jek5s ${"container-sm"}`}>
+className={`w-element ${"container-sm"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041607b9-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"container-md"}
 </div>
 <div
-className={`w-element c1kuwk32 cyn0wfw ctx8ibw c14jek5s ${"container-md"}`}>
+className={`w-element ${"container-md"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041607be-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"container-lg"}
 </div>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041607c3-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"padding-global"}
 </div>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element cwzi4dx c1723kff cr0hif c1viuxvl c1pmahw8 cbdnmzm c3mk8rr c1y39kfe c7xx1rg cdzvqh6 cbabh1c cghr5hk ${"fs-styleguide_row"}`}>
+className={`w-element ${"fs-styleguide_row"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"button-group"}
 </div>
 </div>
 <div
-className={`w-element c61wgnw c1sfgv62 c4y6pxj cbpji3r c1g7apm c7xx1rg cdzvqh6 c2ykn3m crwxlzb c1ef4itk c1eu5nh c1bvp1x3 c1z0drro ${"button-group"}`}>
+className={`w-element ${"button-group"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 </div>
@@ -209,21 +209,21 @@ className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styl
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_headings"}`}>
+className={`w-element ${"fs-styleguide_headings"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Headings"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"HTML tags define default Heading styles. Use Heading classes when the typography style doesn't match the default HTML tag."}
@@ -233,25 +233,25 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"super-text"}
 </div>
 <h1
 id={"w-node-_66648800-ce29-4660-afa4-92e1041607dd-0ef646ba"}
-className={`w-element cha3p3 c8g4rbm c4sybjy cn7swv c1bo5e9h ${"super-text"}`}>
+className={`w-element ${"super-text"}`}>
 {"Sample text helps you understand how real text may look. Sample text is being used as a placeholder."}
 </h1>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"H1"}
 </div>
 <h1
@@ -260,20 +260,20 @@ className={`w-element`}>
 </h1>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"heading-style-h1"}
 </div>
 <h1
-className={`w-element c1yvobt4 cn9ibz0 c45mrwh cez4jgv czdnhsw ${"heading-style-h1"}`}>
+className={`w-element ${"heading-style-h1"}`}>
 {"Sample text helps you understand how real text may look."}
 </h1>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"H2"}
 </div>
 <h2
@@ -282,20 +282,20 @@ className={`w-element`}>
 </h2>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"heading-style-h2"}
 </div>
 <h2
-className={`w-element c1hg6r8l cn9ibz0 c1um4v3y cdu5ypz ciwyep9 ${"heading-style-h2"}`}>
+className={`w-element ${"heading-style-h2"}`}>
 {"Sample text is being used as a placeholder. Sample text helps you understand how real text may look."}
 </h2>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"H3"}
 </div>
 <h3
@@ -304,20 +304,20 @@ className={`w-element`}>
 </h3>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"heading-style-h3"}
 </div>
 <h2
-className={`w-element c1b7j5ya cn9ibz0 cnsje4e c18m5w71 c1szfbvc ${"heading-style-h3"}`}>
+className={`w-element ${"heading-style-h3"}`}>
 {"Sample text helps you understand how real text may look on your website. Sample text is being used as a placeholder for real text that is normally present."}
 </h2>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"H4"}
 </div>
 <h4
@@ -326,20 +326,20 @@ className={`w-element`}>
 </h4>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"heading-style-h4"}
 </div>
 <h2
-className={`w-element cte2vf8 cn9ibz0 cnsje4e c43eehi c1gkpfk9 ${"heading-style-h4"}`}>
+className={`w-element ${"heading-style-h4"}`}>
 {"Sample text is being used as a placeholder. Sample text helps you understand how real text may look. Sample text is being used as a placeholder for real text that is normally present."}
 </h2>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"H5"}
 </div>
 <h5
@@ -348,13 +348,13 @@ className={`w-element`}>
 </h5>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"heading-style-h5"}
 </div>
 <h2
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Sample text is being used as a placeholder. Sample text helps you understand how real text may look. Sample text is being used as a placeholder for real text that is normally present. Sample text helps you understand how real text may look."}
 </h2>
 </div>
@@ -365,21 +365,21 @@ className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-styl
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_other-tags"}`}>
+className={`w-element ${"fs-styleguide_other-tags"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Other HTML Tags"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"HTML tags define default text styles."}
@@ -389,13 +389,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl c9bgjuu c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx c168g7wn ca5hslh c1gyjzp6 c1ml4qhu ${"fs-styleguide_2-col"}`}>
+className={`w-element ${"fs-styleguide_2-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"All paragraphs"}
 </div>
 <p
@@ -409,9 +409,9 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"All links"}
 </div>
 <a
@@ -421,9 +421,9 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"All quotes"}
 </div>
 <blockquote
@@ -432,9 +432,9 @@ className={`w-element`}>
 </blockquote>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"All Ordered Lists"}
 </div>
 <ol
@@ -455,9 +455,9 @@ className={`w-element`}>
 </ol>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1tbtc05 cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label is-tag"}`}>
+className={`w-element ${"fs-styleguide_label is-tag"}`}>
 {"All Unordered Lists"}
 </div>
 <ul
@@ -484,21 +484,21 @@ className={`w-element`}>
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_text-classes"}`}>
+className={`w-element ${"fs-styleguide_text-classes"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Text Classes"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Text classes when typography style doesn't match the default HTML tag."}
@@ -508,24 +508,24 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Text Sizes"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-size-lg"}
 </div>
 <p
-className={`w-element c20zflo ${"text-size-lg"}`}>
+className={`w-element ${"text-size-lg"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present."}
@@ -535,13 +535,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-size-md"}
 </div>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present on your website."}
@@ -551,13 +551,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-size-sm"}
 </div>
 <p
-className={`w-element cvdimgi c6s7woo c1qpv6k ${"text-size-sm"}`}>
+className={`w-element ${"text-size-sm"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present. Sample text helps you understand how real text may look on your website. "}
@@ -567,13 +567,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"caption-md"}
 </div>
 <p
-className={`w-element c1egpnue ${"caption-md"}`}>
+className={`w-element ${"caption-md"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present on your website. Sample text helps you understand how real text may look on your website. "}
@@ -583,13 +583,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"caption-sm"}
 </div>
 <p
-className={`w-element c1k3kcpb ${"caption-sm"}`}>
+className={`w-element ${"caption-sm"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present on your website. Sample text helps you understand how real text may look on your website. "}
@@ -601,24 +601,24 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Text Styles"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-strikethrough"}
 </div>
 <p
-className={`w-element c10fg1i4 cqm1fiw c1rkddb1 ${"text-style-strikethrough"}`}>
+className={`w-element ${"text-style-strikethrough"}`}>
 <span
 className={`w-element`}>
 {"text-style-strikethrough"}
@@ -628,13 +628,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-italic"}
 </div>
 <p
-className={`w-element cticrez ${"text-style-italic"}`}>
+className={`w-element ${"text-style-italic"}`}>
 <span
 className={`w-element`}>
 {"text-style-italic"}
@@ -644,13 +644,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-muted"}
 </div>
 <p
-className={`w-element c193feeu ${"text-style-muted"}`}>
+className={`w-element ${"text-style-muted"}`}>
 <span
 className={`w-element`}>
 {"text-style-muted"}
@@ -660,13 +660,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-allcaps"}
 </div>
 <p
-className={`w-element c3bspns ${"text-style-allcaps"}`}>
+className={`w-element ${"text-style-allcaps"}`}>
 <span
 className={`w-element`}>
 {"text-style-allcaps"}
@@ -676,13 +676,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-nowrap"}
 </div>
 <p
-className={`w-element c16e2dia c1lv4vpp c1aeddnn c1ncyrh9 c1eiarb7 c15oy4xn ${"text-style-nowrap"}`}>
+className={`w-element ${"text-style-nowrap"}`}>
 <span
 className={`w-element`}>
 {"text-style-nowrap"}
@@ -692,13 +692,13 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-link"}
 </div>
 <p
-className={`w-element c1chu7bs cjxzswz cqm1fiw c1rkddb1 cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia ct4bwso ${"text-style-link"}`}>
+className={`w-element ${"text-style-link"}`}>
 <span
 className={`w-element`}>
 {"text-style-link"}
@@ -708,19 +708,19 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-2lines"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608a5-0ef646ba"}
-className={`w-element c1tgy7p4 cdpprdk ca09yfv c1at8wuf crjhvpn c1cihr4e c1lbtf55 chrsm5x cezig9b c6mk67z c84694i ${"fs-styleguide_message"}`}>
+className={`w-element ${"fs-styleguide_message"}`}>
 {"This CSS style is not supported for Rich Texts on iOS."}
 </div>
 <p
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608a7-0ef646ba"}
-className={`w-element c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o ${"text-style-2lines"}`}>
+className={`w-element ${"text-style-2lines"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present. Sample text helps you understand how real text may look on your website. Sample text is being used as a placeholder for real text text-style-2lines"}
@@ -730,18 +730,18 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-style-3lines"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608ad-0ef646ba"}
-className={`w-element c1tgy7p4 cdpprdk ca09yfv c1at8wuf crjhvpn c1cihr4e c1lbtf55 chrsm5x cezig9b c6mk67z c84694i ${"fs-styleguide_message"}`}>
+className={`w-element ${"fs-styleguide_message"}`}>
 {"This CSS style is not supported for Rich Texts on iOS."}
 </div>
 <p
-className={`w-element c1chl3ha cfko4c5 cmcjy5s c1ek6cds c16agd5o ${"text-style-3lines"}`}>
+className={`w-element ${"text-style-3lines"}`}>
 <span
 className={`w-element`}>
 {"Sample text is being used as a placeholder for real text that is normally present. Sample text helps you understand how real text may look on your website. Sample text is being used as a placeholder for real text. Sample text is being used as a placeholder for real text that is normally present. Sample text helps you understand how real text may look on your website. Sample text is being used as a placeholder for real text."}
@@ -753,130 +753,130 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Text Weights"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-xbold"}
 </div>
 <div
-className={`w-element c1caml4c ${"text-weight-xbold"}`}>
+className={`w-element ${"text-weight-xbold"}`}>
 {"text-weight-xbold"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-bold"}
 </div>
 <div
-className={`w-element cn9ibz0 ${"text-weight-bold"}`}>
+className={`w-element ${"text-weight-bold"}`}>
 {"text-weight-bold"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-semibold"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608c4-0ef646ba"}
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"text-weight-semibold"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-medium"}
 </div>
 <div
-className={`w-element c1chu7bs ${"text-weight-medium"}`}>
+className={`w-element ${"text-weight-medium"}`}>
 {"text-weight-medium"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-normal"}
 </div>
 <div
-className={`w-element cmt6d78 ${"text-weight-normal"}`}>
+className={`w-element ${"text-weight-normal"}`}>
 {"text-weight-normal"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-weight-light"}
 </div>
 <div
-className={`w-element cjtmlqc ${"text-weight-light"}`}>
+className={`w-element ${"text-weight-light"}`}>
 {"text-weight-light"}
 </div>
 </div>
 </div>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Text Alignments"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-align-left"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608dd-0ef646ba"}
-className={`w-element ct1fxvf ${"text-align-left"}`}>
+className={`w-element ${"text-align-left"}`}>
 {"text-align-left"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608e0-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-align-center"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608e2-0ef646ba"}
-className={`w-element c1fs6dqh ${"text-align-center"}`}>
+className={`w-element ${"text-align-center"}`}>
 {"text-align-center"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041608e5-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-align-right"}
 </div>
 <div
-className={`w-element c2ix4r5 ${"text-align-right"}`}>
+className={`w-element ${"text-align-right"}`}>
 {"text-align-right"}
 </div>
 </div>
@@ -887,21 +887,21 @@ className={`w-element c2ix4r5 ${"text-align-right"}`}>
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_buttons"}`}>
+className={`w-element ${"fs-styleguide_buttons"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Buttons"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Button combo class system."}
@@ -911,20 +911,20 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"button"}
 </div>
 <a
 href={"#"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -946,7 +946,7 @@ className={`w-element`}>
 {"Request a project"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -967,18 +967,18 @@ className={`w-element`} />
 </a>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"button-secondary"}
 </div>
 <a
 href={"#"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c428y35 c1tpxml8 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1jbh7w8 c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn cdzvqh6 csemwku crld1xj ccfi1nz c1juhpdv cwek1tm ${"button-secondary"}`}>
+className={`w-element ${"button-secondary"}`}>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1000,7 +1000,7 @@ className={`w-element`}>
 {"Request a project"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1021,18 +1021,18 @@ className={`w-element`} />
 </a>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"button-outline"}
 </div>
 <a
 href={"#"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c428y35 c1kuwk32 c14ikxcr c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 csemwku c1sg3im2 crld1xj ccfi1nz c1juhpdv cwek1tm ${"button-outline"}`}>
+className={`w-element ${"button-outline"}`}>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"currentWidth"}
@@ -1054,7 +1054,7 @@ className={`w-element`}>
 {"Request a project"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"currentWidth"}
@@ -1075,22 +1075,22 @@ className={`w-element`} />
 </a>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"button-tertiary"}
 </div>
 <a
 href={"#"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw cum4mnn ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1jbh7w8 c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn cdzvqh6 cow3ufv crld1xj ciwacd0 c1ap9ppu ${"button-tertiary"}`}>
+className={`w-element ${"button-tertiary"}`}>
 <div
 className={`w-element`}>
 {"Request a project"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1116,21 +1116,21 @@ className={`w-element`} />
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_colors"}`}>
+className={`w-element ${"fs-styleguide_colors"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Colors"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Manage recurring text and background colors."}
@@ -1140,63 +1140,63 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Text Colors"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-color-primary"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e10416093c-0ef646ba"}
-className={`w-element c1tpxml8 ${"text-color-primary"}`}>
+className={`w-element ${"text-color-primary"}`}>
 {"text-color-primary"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-color-secondary"}
 </div>
 <div
-className={`w-element c1nsb0xd ${"text-color-secondary"}`}>
+className={`w-element ${"text-color-secondary"}`}>
 {"text-color-secondary"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-color-brand"}
 </div>
 <div
 id={"w-node-f5fc250e-34b1-c8d9-acf6-d8ea06d4dc9d-0ef646ba"}
-className={`w-element c1noxpoj c18ghmj7 ${"text-color-brand"}`}>
+className={`w-element ${"text-color-brand"}`}>
 {"text-color-brand"}
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-color-alternate"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160946-0ef646ba"}
-className={`w-element c1sjoqyl ${"background-color-dark"}`}>
+className={`w-element ${"background-color-dark"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160947-0ef646ba"}
-className={`w-element ck80r54 ${"text-color-alternate"}`}>
+className={`w-element ${"text-color-alternate"}`}>
 {"text-color-alternate"}
 </div>
 </div>
@@ -1204,88 +1204,88 @@ className={`w-element ck80r54 ${"text-color-alternate"}`}>
 </div>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1kuwk32 c196rp2y ccd92et ${"fs-styleguide_item-header"}`}>
+className={`w-element ${"fs-styleguide_item-header"}`}>
 <h3
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Background Colors"}
 </h3>
 </div>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl czrt1di c13qfgf cp7hr9q c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_3-col"}`}>
+className={`w-element ${"fs-styleguide_3-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"background-color-primary"}
 </div>
 <div
-className={`w-element cbplqux c1g7apm cp7hr9q c1kuwk32 cdzvqh6 ca8rynm ${"fs-styleguide_background"}`}>
+className={`w-element ${"fs-styleguide_background"}`}>
 <div
-className={`w-element ck80r54 c1fgdw21 ${"background-color-primary"}`}>
+className={`w-element ${"background-color-primary"}`}>
 <div
-className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space"}`} />
+className={`w-element ${"fs-styleguide_background-space"}`} />
 </div>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"background-color-secondary"}
 </div>
 <div
-className={`w-element cbplqux c1g7apm cp7hr9q c1kuwk32 cdzvqh6 ca8rynm ${"fs-styleguide_background"}`}>
+className={`w-element ${"fs-styleguide_background"}`}>
 <div
-className={`w-element cgmfdf6 ${"background-color-secondary"}`}>
+className={`w-element ${"background-color-secondary"}`}>
 <div
-className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space"}`} />
+className={`w-element ${"fs-styleguide_background-space"}`} />
 </div>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"background-color-tertiary"}
 </div>
 <div
-className={`w-element cbplqux c1g7apm cp7hr9q c1kuwk32 cdzvqh6 ca8rynm ${"fs-styleguide_background"}`}>
+className={`w-element ${"fs-styleguide_background"}`}>
 <div
-className={`w-element ccgyw5d ${"background-color-tertiary"}`}>
+className={`w-element ${"background-color-tertiary"}`}>
 <div
-className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space"}`} />
+className={`w-element ${"fs-styleguide_background-space"}`} />
 </div>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"background-color-brand"}
 </div>
 <div
-className={`w-element cbplqux c1g7apm cp7hr9q c1kuwk32 cdzvqh6 ca8rynm ${"fs-styleguide_background"}`}>
+className={`w-element ${"fs-styleguide_background"}`}>
 <div
-className={`w-element c1tbtc05 ${"background-color-brand"}`}>
+className={`w-element ${"background-color-brand"}`}>
 <div
-className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space"}`} />
+className={`w-element ${"fs-styleguide_background-space"}`} />
 </div>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"background-color-dark"}
 </div>
 <div
-className={`w-element cbplqux c1g7apm cp7hr9q c1kuwk32 cdzvqh6 ca8rynm ${"fs-styleguide_background"}`}>
+className={`w-element ${"fs-styleguide_background"}`}>
 <div
-className={`w-element c1sjoqyl ${"background-color-dark"}`}>
+className={`w-element ${"background-color-dark"}`}>
 <div
-className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space"}`} />
+className={`w-element ${"fs-styleguide_background-space"}`} />
 </div>
 </div>
 </div>
@@ -1296,21 +1296,21 @@ className={`w-element ccx0tax c1wiw99h cw4zqut ${"fs-styleguide_background-space
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_max-width"}`}>
+className={`w-element ${"fs-styleguide_max-width"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section is-vertical"}`}>
+className={`w-element ${"fs-styleguide_section is-vertical"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Max widths"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Use the max-width CSS property to contain inner content to a maximum width."}
@@ -1320,139 +1320,139 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-full"}
 </div>
 <div
-className={`w-element c1kuwk32 c1iel4hw c1qhvmyk c8cjjn4 ${"max-width-full"}`}>
+className={`w-element ${"max-width-full"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-full-tablet"}
 </div>
 <main
-className={`w-element c19bjlry c10f74nw cu3keg7 c19kcl71 ${"max-width-full-tablet"}`}>
+className={`w-element ${"max-width-full-tablet"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-full-mobile-portrait"}
 </div>
 <main
-className={`w-element c1ogibdx cm2lply ck7mm0g c431rxe ${"max-width-full-mobile-portrait"}`}>
+className={`w-element ${"max-width-full-mobile-portrait"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-full-mobile-landscape"}
 </div>
 <main
-className={`w-element c1817s9f caqe5xq cgyp09m cmbbocb ${"max-width-full-mobile-landscape"}`}>
+className={`w-element ${"max-width-full-mobile-landscape"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-xxlarge"}
 </div>
 <main
-className={`w-element c1kuwk32 cmbktot ${"max-width-xxlarge"}`}>
+className={`w-element ${"max-width-xxlarge"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-xlarge"}
 </div>
 <main
-className={`w-element c1kuwk32 cyn0wfw ${"max-width-xlarge"}`}>
+className={`w-element ${"max-width-xlarge"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-large"}
 </div>
 <main
-className={`w-element c1kuwk32 cmw01bb ${"max-width-large"}`}>
+className={`w-element ${"max-width-large"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-medium"}
 </div>
 <main
-className={`w-element c1kuwk32 c3plzlj c15trozn ${"max-width-medium"}`}>
+className={`w-element ${"max-width-medium"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-small"}
 </div>
 <main
-className={`w-element c1kuwk32 c1eeu7wv ${"max-width-small"}`}>
+className={`w-element ${"max-width-small"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-xsmall"}
 </div>
 <main
-className={`w-element c1kuwk32 c15gzflm ${"max-width-xsmall"}`}>
+className={`w-element ${"max-width-xsmall"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"max-width-xxsmall"}
 </div>
 <main
-className={`w-element c1kuwk32 c1agj5vr ${"max-width-xxsmall"}`}>
+className={`w-element ${"max-width-xxsmall"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 </div>
@@ -1462,21 +1462,21 @@ className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styl
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_flexbox"}`}>
+className={`w-element ${"fs-styleguide_flexbox"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section is-vertical"}`}>
+className={`w-element ${"fs-styleguide_section is-vertical"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Flexbox"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Use the different flexbox classes to wrap and arange content inside."}
@@ -1486,97 +1486,97 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-horizontal"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609c9-0ef646ba"}
-className={`w-element cdzvqh6 ${"flex-horizontal"}`}>
+className={`w-element ${"flex-horizontal"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-space-between"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609cf-0ef646ba"}
-className={`w-element c13lcbtl cdzvqh6 cu8axpx cese208 c11eop2k clqhs5g c12iq66h cf1fbqu ${"flex-space-between"}`}>
+className={`w-element ${"flex-space-between"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-space-around"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609d5-0ef646ba"}
-className={`w-element c13fiixd cdzvqh6 ${"flex-space-around"}`}>
+className={`w-element ${"flex-space-around"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-center"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609db-0ef646ba"}
-className={`w-element cbplqux c7xx1rg cdzvqh6 ${"flex-center"}`}>
+className={`w-element ${"flex-center"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-vertical-left"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609e1-0ef646ba"}
-className={`w-element cbplqux c10je7ri cdzvqh6 ${"flex-vertical-left"}`}>
+className={`w-element ${"flex-vertical-left"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"flex-vertical-right"}
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609e7-0ef646ba"}
-className={`w-element cbplqux cq8p6mw cdzvqh6 ${"flex-vertical-right"}`}>
+className={`w-element ${"flex-vertical-right"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </div>
 </div>
 </div>
@@ -1586,21 +1586,21 @@ className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styl
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_spacers"}`}>
+className={`w-element ${"fs-styleguide_spacers"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Spacers"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Unified spacer system for the project."}
@@ -1610,227 +1610,227 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609f7-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-4px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 c18wgxan ${"spacer-4px"}`} />
+className={`w-element ${"spacer-4px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e1041609fc-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-8px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a01-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-12px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 c1yzoccs ${"spacer-12px"}`} />
+className={`w-element ${"spacer-12px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a06-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-16px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a0b-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-20px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 c111x8wj c14jwuqv c1jnk1r1 cfc1ro8 cwhcubc ${"spacer-20px"}`} />
+className={`w-element ${"spacer-20px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a10-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-24px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a15-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-32px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 cic3b2g c6a5ych c1th8947 c2dxj8u cs0nmy5 ${"spacer-32px"}`} />
+className={`w-element ${"spacer-32px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a1a-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-40px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a1f-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-48px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 c58vwce cgz2jcg c139r9rg c1toovlm c8o4rha ${"spacer-48px"}`} />
+className={`w-element ${"spacer-48px"}`} />
 </div>
 </div>
 <div
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a24-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-56px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
-className={`w-element c1kuwk32 czdwwj2 ckfhcgl c66efv8 c1xdm8ja chc368u ${"spacer-56px"}`} />
+className={`w-element ${"spacer-56px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a28-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a29-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-64px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a2c-0ef646ba"}
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a2d-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a2e-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-80px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a31-0ef646ba"}
-className={`w-element cwqsbw ca7ovlo ${"spacer-80px"}`} />
+className={`w-element ${"spacer-80px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a32-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a33-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-96px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a36-0ef646ba"}
-className={`w-element c1tb535j ${"spacer-96px"}`} />
+className={`w-element ${"spacer-96px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a37-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a38-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-120px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a3b-0ef646ba"}
-className={`w-element c1jwyp7v ${"spacer-120px"}`} />
+className={`w-element ${"spacer-120px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a3c-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a3d-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-160px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a40-0ef646ba"}
-className={`w-element ceqyts6 ${"spacer-160px"}`} />
+className={`w-element ${"spacer-160px"}`} />
 </div>
 </div>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a41-0ef646ba"}
-className={`w-element c2onsk4 c1n2lta2 c1jkbzro cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd c10rtf3d ccwjzqv ${"fs-styleguide_spacing"}`}>
+className={`w-element ${"fs-styleguide_spacing"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a42-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"spacer-240px"}
 </div>
 <div
-className={`w-element cmvdd2c c1kuwk32 ccwjzqv c2ztgvm ${"fs-styleguide_spacer-box"}`}>
+className={`w-element ${"fs-styleguide_spacer-box"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a45-0ef646ba"}
-className={`w-element c1rr71sy ${"spacer-240px"}`} />
+className={`w-element ${"spacer-240px"}`} />
 </div>
 </div>
 </div>
@@ -1840,21 +1840,21 @@ className={`w-element c1rr71sy ${"spacer-240px"}`} />
 </div>
 </section>
 <section
-className={`w-element c1jwyp7v cy4qr4q ${"fs-styleguide_utility-classes"}`}>
+className={`w-element ${"fs-styleguide_utility-classes"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Useful utility systems"}
 </h2>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Utility classes we like to use in most of our projects to build faster."}
@@ -1864,17 +1864,17 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element c1maiddp cegtkqw c1viuxvl c1yqysa c13qfgf c1kuwk32 c10rtf3d c168g7wn c1ml4qhu ${"fs-styleguide_4-col"}`}>
+className={`w-element ${"fs-styleguide_4-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"hide"}
 </div>
 <div
-className={`w-element cmh603w c1f9ovza c74clpy ${"hide"}`} />
+className={`w-element ${"hide"}`} />
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a56-0ef646ba"}
 className={`w-element`}>
@@ -1882,191 +1882,191 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"hide-tablet"}
 </div>
 <main
-className={`w-element c1f9ovza c74clpy ${"hide-tablet"}`}>
+className={`w-element ${"hide-tablet"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"show-tablet"}
 </div>
 <main
-className={`w-element cmh603w ccsp7fv csld4j0 ${"show-tablet"}`}>
+className={`w-element ${"show-tablet"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"hide-mobile-portrait"}
 </div>
 <main
-className={`w-element c75fxaq c1ijzp3p ${"hide-mobile-portrait"}`}>
+className={`w-element ${"hide-mobile-portrait"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"show-mobile-portrait"}
 </div>
 <main
-className={`w-element cmh603w cc3k908 c1rqlhiv ${"show-mobile-portrait"}`}>
+className={`w-element ${"show-mobile-portrait"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"hide-mobile-landscape"}
 </div>
 <main
-className={`w-element c1ftzn93 cvxeimn ${"hide-mobile-landscape"}`}>
+className={`w-element ${"hide-mobile-landscape"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"show-mobile-landscape"}
 </div>
 <main
-className={`w-element cmh603w c1nw5o3x c1kan4ht ${"show-mobile-landscape"}`}>
+className={`w-element ${"show-mobile-landscape"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-visible"}
 </div>
 <main
-className={`w-element cd2mmkj ca9u31z ${"overflow-visible"}`}>
+className={`w-element ${"overflow-visible"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-hidden"}
 </div>
 <main
-className={`w-element cfko4c5 cmcjy5s ${"overflow-hidden"}`}>
+className={`w-element ${"overflow-hidden"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-auto"}
 </div>
 <main
-className={`w-element c1scrlst c18fiswd ${"overflow-auto"}`}>
+className={`w-element ${"overflow-auto"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-auto-x"}
 </div>
 <main
-className={`w-element c1scrlst ${"overflow-auto-x"}`}>
+className={`w-element ${"overflow-auto-x"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-auto-y"}
 </div>
 <main
-className={`w-element c1scrlst ${"overflow-auto-y"}`}>
+className={`w-element ${"overflow-auto-y"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"overflow-scroll"}
 </div>
 <main
-className={`w-element c1uadud5 c1yktdgk ${"overflow-scroll"}`}>
+className={`w-element ${"overflow-scroll"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"pointer-events-auto"}
 </div>
 <main
-className={`w-element c4lsin1 ${"pointer-events-auto"}`}>
+className={`w-element ${"pointer-events-auto"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"pointer-events-none"}
 </div>
 <main
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a83-0ef646ba"}
-className={`w-element co29il6 ${"pointer-events-none"}`}>
+className={`w-element ${"pointer-events-none"}`}>
 <div
-className={`w-element cgakeqw cmvdd2c cuumhrp cj8sc6i ccwjzqv c2ztgvm ${"fs-styleguide_empty-box"}`} />
+className={`w-element ${"fs-styleguide_empty-box"}`} />
 </main>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"z-index-1"}
 </div>
 <main
-className={`w-element c8d04es ccwjzqv ${"z-index-1"}`} />
+className={`w-element ${"z-index-1"}`} />
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"z-index-2"}
 </div>
 <main
-className={`w-element cpxrkxj ccwjzqv ${"z-index-2"}`} />
+className={`w-element ${"z-index-2"}`} />
 </div>
 </div>
 </div>
@@ -2077,20 +2077,20 @@ className={`w-element cpxrkxj ccwjzqv ${"z-index-2"}`} />
 <section
 className={`w-element ${"fs-styleguide_webflow-elements"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1kuwk32 c1n6bhaq c4gouwl ctx8ibw c14jek5s c1xn1ugd ${"container-lg"}`}>
+className={`w-element ${"container-lg"}`}>
 <div
-className={`w-element c75nwzb c11m0b1m c1viuxvl cg2v6fb c13qfgf c1s7gu6l cekxmt8 c10rtf3d ccfmkuq c168g7wn c1fh4n0e c1ml4qhu ${"fs-styleguide_section"}`}>
+className={`w-element ${"fs-styleguide_section"}`}>
 <div
-className={`w-element chr7ptk c1enenfh c1viuxvl cg2v6fb c13qfgf c1kuwk32 cxmkyul c1ajwld3 c10rtf3d c1ljx4pi cne7wk4 ctmhnid ${"fs-styleguide_section-header"}`}>
+className={`w-element ${"fs-styleguide_section-header"}`}>
 <h2
-className={`w-element chnqs0s c1lukcgt c1plggll c13ips6o c8lc392 ${"fs-styleguide_heading-medium"}`}>
+className={`w-element ${"fs-styleguide_heading-medium"}`}>
 {"Webflow elements"}
 </h2>
 <p
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a99-0ef646ba"}
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Native Webflow elements with classes applied."}
@@ -2100,18 +2100,18 @@ className={`w-element`} />
 </p>
 </div>
 <div
-className={`w-element cz6b4pt c16qu3ee cbplqux c1y39kfe c10je7ri c1kuwk32 cdzvqh6 ${"fs-styleguide_item-wrapper"}`}>
+className={`w-element ${"fs-styleguide_item-wrapper"}`}>
 <div
-className={`w-element cz6b4pt c16qu3ee c1viuxvl cg2v6fb c13qfgf c1kuwk32 c10rtf3d cu433tg cpkiywx ca5hslh c1gyjzp6 ${"fs-styleguide_1-col"}`}>
+className={`w-element ${"fs-styleguide_1-col"}`}>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l c1lqh5qd cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item is-stretch"}`}>
+className={`w-element ${"fs-styleguide_item is-stretch"}`}>
 <div
 id={"w-node-_66648800-ce29-4660-afa4-92e104160a9f-0ef646ba"}
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"form_component"}
 </div>
 <p
-className={`w-element c14pm6dm ${"text-size-md"}`}>
+className={`w-element ${"text-size-md"}`}>
 <span
 className={`w-element`}>
 {"Example of a form component using Folders"}
@@ -2120,7 +2120,7 @@ className={`w-element`}>
 className={`w-element`} />
 </p>
 <div
-className={`w-element c1viq0dj c1v7lzh4 c1qx9vin cxedn37 ${"form_component w-form"}`}>
+className={`w-element ${"form_component w-form"}`}>
 <form
 id={"wf-form-Form"}
 name={"wf-form-Form"}
@@ -2130,10 +2130,10 @@ data-wf-page-id={"6757f377cc48557b0ef646ba"}
 data-wf-element-id={"66648800-ce29-4660-afa4-92e104160aa5"}
 className={`w-element ${"form_form"}`}>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c5nedoi ${"form_field-wrap"}`}>
+className={`w-element ${"form_field-wrap"}`}>
 <label
 htmlFor={"First-Name"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Text Input"}
 </label>
 <Input
@@ -2143,13 +2143,13 @@ data-name={"First Name"}
 placeholder={"First Name"}
 type={"text"}
 id={"First-Name"}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c5nedoi ${"form_field-wrap"}`}>
+className={`w-element ${"form_field-wrap"}`}>
 <label
 htmlFor={"Message"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Text Area"}
 </label>
 <Textarea
@@ -2158,20 +2158,20 @@ name={"Message"}
 maxLength={5000}
 data-name={"Message"}
 placeholder={"Message"}
-className={`w-element c1e97ymn c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input is-text-area w-input"}`} />
+className={`w-element ${"form_input is-text-area w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c5nedoi ${"form_field-wrap"}`}>
+className={`w-element ${"form_field-wrap"}`}>
 <label
 htmlFor={"Select"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Select field"}
 </label>
 <Select
 id={"Select"}
 name={"Select"}
 data-name={"Select"}
-className={`w-element cm4kqbl c1hk3iai cqi8r21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te ce9b4sv c1xu9ni5 c17jqo6w c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe cajthak c2ye6xu c19ohx5n c1hi5fbc cn1m4mf c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 c1iiet6j ${"form_input is-select-input w-select"}`}>
+className={`w-element ${"form_input is-select-input w-select"}`}>
 <option
 value={""}
 className={`w-element`}>
@@ -2195,16 +2195,16 @@ className={`w-element`}>
 </Select>
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c5nedoi ${"form_field-wrap"}`}>
+className={`w-element ${"form_field-wrap"}`}>
 <label
 htmlFor={"email"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Checkbox field"}
 </label>
 <label
-className={`w-element c1nvquth c1g9d0aa cdzvqh6 cr0hif c7xx1rg c14iwcl4 c189uwjb c1tbqqby c93ul7a c1vro1vt c19adc7b c5bq8c7 c1kwepi8 cw4w1ux cynjjrm clu1xzz c5fry1g c8arrar ${"w-checkbox form_checkbox"}`}>
+className={`w-element ${"w-checkbox form_checkbox"}`}>
 <div
-className={`w-element c1988f7f c1v7lzh4 c95je1t c1nvquth cxedn37 cy698ao ca09yfv c1at8wuf crjhvpn c1cihr4e cmaf0s5 c1afds52 c428y35 c1sg3im2 c1up4h7s ${"w-checkbox-input w-checkbox-input--inputType-custom form_checkbox-icon"}`} />
+className={`w-element ${"w-checkbox-input w-checkbox-input--inputType-custom form_checkbox-icon"}`} />
 <Input
 type={"checkbox"}
 name={"Checkbox"}
@@ -2213,22 +2213,22 @@ data-name={"Checkbox"}
 className={`w-element c1ungi45 c1ilrpex cgakeqw`} />
 <span
 htmlFor={"Checkbox"}
-className={`w-element cvdimgi c1kexwu9 c1ajwld3 c1dftv06 cwwbqcf c1oxtnso ${"form_checkbox-label w-form-label"}`}>
+className={`w-element ${"form_checkbox-label w-form-label"}`}>
 {"Checkbox"}
 </span>
 </label>
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c5nedoi ${"form_field-wrap"}`}>
+className={`w-element ${"form_field-wrap"}`}>
 <label
 htmlFor={"email"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Radio button"}
 </label>
 <label
-className={`w-element cr0hif c7xx1rg c1whjrci cz3dvi0 c1ro25gr c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"form_radio w-radio"}`}>
+className={`w-element ${"form_radio w-radio"}`}>
 <div
-className={`w-element cfk8owb c179gtdw cuxhjw4 c1og7qmh cmaf0s5 c1afds52 c428y35 c1mm0u8y c1tntgph c1qx9vin c1nvquth cy698ao c1988f7f c1sg3im2 c1up4h7s ${"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input"}`} />
+className={`w-element ${"w-form-formradioinput w-form-formradioinput--inputType-custom form_radio-icon w-radio-input"}`} />
 <Input
 type={"radio"}
 name={"Radio"}
@@ -2238,7 +2238,7 @@ value={"Radio"}
 className={`w-element c1ungi45 c1ilrpex cgakeqw`} />
 <span
 htmlFor={"radio"}
-className={`w-element cvdimgi c1kexwu9 c1ajwld3 c1dftv06 cwwbqcf c1oxtnso ${"form_radio-label w-form-label"}`}>
+className={`w-element ${"form_radio-label w-form-label"}`}>
 {"Radio"}
 </span>
 </label>
@@ -2247,17 +2247,17 @@ className={`w-element cvdimgi c1kexwu9 c1ajwld3 c1dftv06 cwwbqcf c1oxtnso ${"for
 type={"submit"}
 data-wait={"Sending your request..."}
 value={"Send request"}
-className={`w-element c13dsrcw cf159v7 c1kuwk32 c1qe1f6t czsxu8n c1nrdone c1f4f0w8 c1g8wfgh c1g7apm c7xx1rg cze2t9e ct0i0ao curkl6s c1oi8sje c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia c1dftv06 c1m80p2u c1vee3qe c2w17zg cqm1fiw c1rkddb1 cwwbqcf c15pshk crld1xj ciwacd0 cwek1tm ${"button w-button"}`} />
+className={`w-element ${"button w-button"}`} />
 </form>
 <div
-className={`w-element cg7vtnf cq967bf cmh603w c1fs6dqh c1fqmh6z ${"form_message-success w-form-done"}`}>
+className={`w-element ${"form_message-success w-form-done"}`}>
 <div
 className={`w-element`}>
 {"Thank you! Your submission has been received!"}
 </div>
 </div>
 <div
-className={`w-element cawkhls c1xxgguf c1a3mfqd cmh603w cy7z5dk ${"form_message-error w-form-fail"}`}>
+className={`w-element ${"form_message-error w-form-fail"}`}>
 <div
 className={`w-element`}>
 {"Oops! Something went wrong while submitting the form."}
@@ -2266,13 +2266,13 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c1nfxds6 c7x4qpi c1viuxvl cg2v6fb c13qfgf cdzxtq6 c6xsn2q c1s7gu6l cekxmt8 cuzs0o5 c10rtf3d ccwjzqv ccd92et ${"fs-styleguide_item"}`}>
+className={`w-element ${"fs-styleguide_item"}`}>
 <div
-className={`w-element c1sjoqyl cue63w1 ca09yfv c1at8wuf crjhvpn c1cihr4e cr0hif c1y39kfe c7xx1rg c1lbtf55 coquuii czyiz0d c14v0xy7 c8g4rbm cdzvqh6 ${"fs-styleguide_label"}`}>
+className={`w-element ${"fs-styleguide_label"}`}>
 {"text-rich-text"}
 </div>
 <div
-className={`w-element c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c1qminw5 c7g8hv3 c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 c1owova2 ctxxht2 ${"text-rich-text w-richtext"}`}>
+className={`w-element ${"text-rich-text w-richtext"}`}>
 <h1
 className={`w-element`}>
 {"Heading 1"}
@@ -2290,7 +2290,7 @@ className={`w-element`}>
 {"Heading 4"}
 </h4>
 <h5
-className={`w-element c1noxpoj ${"heading-2"}`}>
+className={`w-element ${"heading-2"}`}>
 {"Heading 5"}
 </h5>
 <p

@@ -11,11 +11,11 @@
 
       export const projectDomain = "turtleci-staging";
 
-      export const lastPublished = "2026-06-08T02:55:34.619Z";
+      export const lastPublished = "2026-06-09T07:15:29.598Z";
 
       export const siteName = undefined;
 
-      export const breakpoints = [{"id":"base"},{"id":"45f5c977-5f83-41e9-8b7d-9695fe51f7fc","maxWidth":991},{"id":"2e71b6b0-c8bf-44e8-9431-2362a90f8f4e","maxWidth":768},{"id":"a6f71109-250c-4881-b222-dd77b71daa01","maxWidth":767},{"id":"95e56516-8d86-425f-8f6b-4cf342440c91","maxWidth":479},{"id":"dcd00c70-1b4c-4d5e-88a5-9eed4ce9d845","minWidth":768}];
+      export const breakpoints = [{"id":"base"},{"id":"e8ff68f4-dfa4-4b4b-85d3-b344fd3124f3","maxWidth":991},{"id":"745b3d7d-ee2d-4f57-a585-684ecde78788","maxWidth":768},{"id":"4bd8cf14-661c-403d-906b-7f4dd6314b1d","maxWidth":767},{"id":"ef612b5b-f9c5-44ee-a19f-ffacebe27cd6","maxWidth":479},{"id":"fd73618b-33c4-431a-8752-9e45b5ddf95a","minWidth":768}];
 
       export const favIconAsset: string | undefined =
         undefined;
@@ -48,84 +48,84 @@ className={`w-html-embed`} />
 code={"<style>@keyframes logoMarquee{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}</style>"}
 className={`w-html-embed`} />
 <div
-className={`w-element cm0u0jj c1nyqhf9 c1upswbh c1rwc4sm c1t335do c1cinhhj ${"page-wrap"}`}>
+className={`w-element ${"page-wrap"}`}>
 <div
-className={`w-element c1ro25gr c1m333il cds5ulr c1rfbdao cxsker3 caoid09 cat3xbx cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c109f3i0 c4s3jf c1tfz2nu c1isl1ly c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"global-styles w-embed"}`}>
+className={`w-element ${"global-styles w-embed"}`}>
 <HtmlEmbed
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
 </div>
 <div
-className={`w-element cmh603w c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-css w-embed"}`} />
+className={`w-element ${"page-css w-embed"}`} />
 <div
-className={`w-element c1chl3ha cfko4c5 cmcjy5s c1ek6cds c16agd5o c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-js w-embed w-iframe"}`} />
+className={`w-element ${"page-js w-embed w-iframe"}`} />
 <main
 className={`w-element ${"main-wrap"}`}>
 <nav
 data-wf--navbar--variant={"style-1"}
-className={`w-element c3pv99h c428y35 ch73i66 c1d5da0p c1xgwmfx c155y887 c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o cvg101s c1n9jjcq ${"navbar"}`}>
+className={`w-element ${"navbar"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c13lcbtl c7xx1rg cdzvqh6 cb9ahd3 cnphsm6 cu8axpx cley3lg csuuk33 clqhs5g c16fhz67 cr5vxx5 c15trozn ${"nav_flexwrap"}`}>
+className={`w-element ${"nav_flexwrap"}`}>
 <div
-className={`w-element c4yai1e cc964en cwnrfm6 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1udtbj5 c4s3jf c1tfz2nu c1isl1ly ${"nav_leftbox"}`}>
+className={`w-element ${"nav_leftbox"}`}>
 <a
 href={"index.html"}
-className={`w-element ckwuexc c1dftv06 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"nav_logo-link w-inline-block"}`}>
+className={`w-element ${"nav_logo-link w-inline-block"}`}>
 <Image
 src={"/turtleci-import/images/TurtleCI-logo.png"}
 loading={"lazy"}
 width={70}
 alt={"TurtleCI Main Logo"}
-className={`w-image c1mfc36h c1lmt071 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ccn6bca c1dmj322 coxu29m cv7k4t ${"nav_logo"}`} />
+className={`w-image ${"nav_logo"}`} />
 </a>
 </div>
 <div
-className={`w-element cdzvqh6 cmaylbl c1f96ip4 c19dnpzs cb9ahd3 cnphsm6 c12u855l c12lwdaa c7sdmwr c6660c5 cq6d6kz c14mmn5y c1ogj039 c3vgo57 c1hi9tqm c1u7ehrg ${"nav_rightbox"}`}>
+className={`w-element ${"nav_rightbox"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g c1y39kfe c7xx1rg cdzvqh6 cmaylbl c1f96ip4 c19dnpzs cb9ahd3 cnphsm6 cioexil czwjesa c12oouua c1tnh22f c173o5z5 c2q0ag4 chq3ky0 cfe1vus c149hts6 ceq9pda c1ca9zgk c6mrxx0 c74o7rt cocic4y c1jh5jmh c2jugk3 cubp8mi cc49nab c1d195ce c7tx598 cca4j68 crugq0o c1mqnin4 c12gnh9b cn5kibl c1rwc4sm c1t335do c1cinhhj cat6qrd c10bep2g c1w82hja coqt328 c39fbfu c1ou5bby c7xx1s3 cubhqip cf74d0e ctltzze ck7hzt7 c1i4lgve c1opa2bv c1mrgejv cjq76t4 c1l2cfg6 c1t8kji7 cijgvnt chkfzp4 c1bp1gy4 c1qx1hjk c15owlff c7jdf9i cxwnwit ${"nav_actions"}`}>
+className={`w-element ${"nav_actions"}`}>
 <div
-className={`w-element c1s0k8lp c1irosg5 cdzvqh6 cmaylbl c1f96ip4 c19dnpzs czwjesa c12oouua chq3ky0 cfe1vus c19bjlry cat6qrd c10bep2g c1ou5bby c7xx1s3 cu3keg7 ${"nav_link-wrap"}`}>
+className={`w-element ${"nav_link-wrap"}`}>
 <a
 href={"about-us.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"About Us "}
 </a>
 <a
 href={"features-turtleci.html"}
 aria-current={"page"}
-className={`w-element cvd9qfr c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right w--current"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right w--current"}`}>
 {"Features "}
 </a>
 <a
 href={"pricing-plan.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Pricing "}
 </a>
 <a
 href={"contact-us.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Contact "}
 </a>
 <a
 href={"blogs.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Blog "}
 </a>
 <a
 href={"documentation.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Documentation"}
 </a>
 </div>
 <a
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"Get Started"}
@@ -134,13 +134,13 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 c13lcbtl c1xeu4lt ckq8af1 cmh603w ccwjzqv ccsp7fv cvg101s c16ztblm csld4j0 c1n9jjcq cqj8kmi ${"nav_menu-trigger-wrap"}`}>
+className={`w-element ${"nav_menu-trigger-wrap"}`}>
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex cds5ulr cjfjc1q cxsker3 caoid09 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1udtbj5 c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-1"}`} />
+className={`w-element ${"nav_menu-trigger_line line-1"}`} />
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex cqkoggo cjfjc1q cxsker3 caoid09 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-2"}`} />
+className={`w-element ${"nav_menu-trigger_line line-2"}`} />
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex c1tp54gh cjfjc1q cxnec9k caoid09 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-3"}`} />
+className={`w-element ${"nav_menu-trigger_line line-3"}`} />
 </div>
 </div>
 </div>
@@ -148,52 +148,52 @@ className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex c1tp54gh cjfjc1q cxnec9
 </div>
 </nav>
 <section
-className={`w-element c16sffq6 cwqsbw c1vtrtst ${"hero-section style-17"}`}>
+className={`w-element ${"hero-section style-17"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1d2jaa0 c1xfacko ${"padding-global is-hero style-18"}`}>
+className={`w-element ${"padding-global is-hero style-18"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg style-19 w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg style-19 w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c1viuxvl cg2v6fb c13qfgf c1ofzs3j c1jyjzo4 c10rtf3d c146xu6l c168g7wn c1d2jaa0 c1ca9zgk c16e22dg cjyirgs c1dnw3oj cqqdlg5 c1ml4qhu c1xfacko ctltzze c17r3bwm cnrwk1m cetmigl c19b0j2q ${"hero_grid style-20"}`}>
+className={`w-element ${"hero_grid style-20"}`}>
 <div
 id={"w-node-_7483c5f0-6c73-8915-0900-71e22f1e731b-a5d97bcf"}
-className={`w-element cbplqux c1qu1cb1 c1g7apm c7xx1rg cdzvqh6 c39dolp cb9ahd3 c1dem3yf c9fwhrd cbtr22e cq8fywn c2ykn3m crwxlzb c1svrc9o c149hts6 csuuk33 cegqa3m cozhu8r cs6j0y1 c1cuw1q6 cajtztt cq6d6kz cxem87t caxh4vs cc7k8p0 cubhqip cr5vxx5 csg1yg2 c1mmdtnj ccfm18d cn11m3v c1ruwqfa c1u7ehrg ctokejq c18xbpvs ${"hero_leftbox flex-center"}`}>
+className={`w-element ${"hero_leftbox flex-center"}`}>
 <div
-className={`w-element c16v4zl c1i5hu5a cogx7qt cj5gfwl ${"cta_heading-wrap style-22"}`}>
+className={`w-element ${"cta_heading-wrap style-22"}`}>
 <div
-className={`w-element c1egpnue c3bspns c1noxpoj c18ghmj7 c1fs6dqh ${"caption-md text-style-allcaps text-color-brand text-align-center"}`}>
+className={`w-element ${"caption-md text-style-allcaps text-color-brand text-align-center"}`}>
 {"TURTLECI"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px style-24"}`} />
+className={`w-element ${"spacer-16px style-24"}`} />
 <h1
-className={`w-element c1noxpoj c18ghmj7 c1fs6dqh ${"text-color-brand style-25 text-align-center"}`}>
+className={`w-element ${"text-color-brand style-25 text-align-center"}`}>
 {"Powerful CI/CD Features for Faster Development"}
 </h1>
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px style-26"}`} />
+className={`w-element ${"spacer-40px style-26"}`} />
 <div
-className={`w-element cbplqux c1qu1cb1 c1y39kfe c7xx1rg cdzvqh6 c125ucm9 cnphsm6 c16v4zl c6mkfsn c149hts6 csuuk33 cogx7qt cubhqip cr5vxx5 cj5gfwl ${"hero_content-wrap style-27"}`}>
+className={`w-element ${"hero_content-wrap style-27"}`}>
 <p
 className={`w-element`}>
 {"Effortlessly automate your build, test, and deployment pipelines across macOS and Linux with a cost-effective, flexible CI/CD platform."}
 </p>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px style-28"}`} />
+className={`w-element ${"spacer-64px style-28"}`} />
 <div
-className={`w-element c61wgnw c1sfgv62 c4y6pxj cbpji3r c1g7apm c7xx1rg cdzvqh6 c2ykn3m crwxlzb c1ef4itk c1eu5nh c1bvp1x3 c1z0drro ${"button-group style-29"}`}>
+className={`w-element ${"button-group style-29"}`}>
 <a
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"Start Free Now"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -220,39 +220,39 @@ className={`w-element`} />
 </div>
 </section>
 <section
-className={`w-element cwqsbw c1vtrtst c1f9ovza c74clpy ${"marquee-logo-section"}`}>
+className={`w-element ${"marquee-logo-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cfko4c5 cmcjy5s ${"marquee-logo_wrap overflow-hidden"}`}>
+className={`w-element ${"marquee-logo_wrap overflow-hidden"}`}>
 <div
-className={`w-element c1fs6dqh cruqiwr ctx8ibw c14jek5s c1591u52 cla4xsu c16v4zl cb9ahd3 cnphsm6 c1noyra5 c9fwhrd c1c2kv0c cv5u0wn c9sdurq celfadz cogx7qt cs6j0y1 c1cuw1q6 c1f1jjg6 c99xr99 cj5gfwl ccfm18d cn11m3v ${"marquee-logo_header"}`}>
+className={`w-element ${"marquee-logo_header"}`}>
 <h2
-className={`w-element c1noxpoj c18ghmj7 c1b7j5ya cn9ibz0 cnsje4e c18m5w71 c1szfbvc ${"text-color-brand heading-style-h3"}`}>
+className={`w-element ${"text-color-brand heading-style-h3"}`}>
 {"Powerful CI/CD Features for Developers"}
 </h2>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 </div>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"marquee-logo_collection w-dyn-list"}`}>
+className={`w-element ${"marquee-logo_collection w-dyn-list"}`}>
 <div
 role={"list"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1y39kfe c7xx1rg cdzvqh6 cat3xbx cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c109f3i0 c4s3jf c1tfz2nu c1isl1ly ${"marquee-logo_list w-dyn-items"}`}>
+className={`w-element ${"marquee-logo_list w-dyn-items"}`}>
 <div
 role={"listitem"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1nyqtrs ${"marquee-logo_item w-dyn-item"}`}>
+className={`w-element ${"marquee-logo_item w-dyn-item"}`}>
 <Image
 alt={""}
 loading={"lazy"}
 src={"https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg"}
-className={`w-image cfl5gtg cmh603w ${"image w-dyn-bind-empty"}`} />
+className={`w-image ${"image w-dyn-bind-empty"}`} />
 </div>
 </div>
 <div
-className={`w-element cq967bf cy7z5dk ${"w-dyn-empty"}`}>
+className={`w-element ${"w-dyn-empty"}`}>
 <div
 className={`w-element`}>
 {"No items found."}
@@ -260,7 +260,7 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cmh603w c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"marquee-logo_code w-embed w-script"}`}>
+className={`w-element ${"marquee-logo_code w-embed w-script"}`}>
 <HtmlEmbed
 code={"<style>@keyframes logoMarquee{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}</style>"}
 className={`w-html-embed`} />
@@ -274,41 +274,41 @@ className={`w-html-embed`} />
 </div>
 </section>
 <section
-className={`w-element c1pxkabf cwqsbw c1vtrtst ${"codify-section"}`}>
+className={`w-element ${"codify-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1d2jaa0 c1xfacko ${"padding-global is-hero"}`}>
+className={`w-element ${"padding-global is-hero"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cm8azr1 c176ublo c1viuxvl c9bgjuu c13qfgf c10rtf3d c146xu6l c168g7wn c1ml4qhu ${"codify-grid"}`}>
+className={`w-element ${"codify-grid"}`}>
 <section
 className={`w-element ${"codify-left-column"}`}>
 <div
-className={`w-element cbplqux c7xx1rg cdzvqh6 ${"rl_faq1_component"}`}>
+className={`w-element ${"rl_faq1_component"}`}>
 <div
-className={`w-element c1fs6dqh c1kuwk32 c133g3f6 ${"rl_faq1_heading-wrapper"}`}>
+className={`w-element ${"rl_faq1_heading-wrapper"}`}>
 <h3
-className={`w-element c1noxpoj c18ghmj7 ct1fxvf ${"text-color-brand text-align-left"}`}>
+className={`w-element ${"text-color-brand text-align-left"}`}>
 {"Codify"}
 </h3>
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <div
 className={`w-element ${"rl_faq1_list"}`}>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"73921346-2338-9b91-2ba1-927c25852a12"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Integration flows as code."}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -327,9 +327,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Define your entire CI/CD pipeline with code, providing full control and flexibility. By using CI as code to manage your workflows, you can version, share, and adapt pipelines as easily as your application code, ensuring consistent and reliable processes across all projects."}
@@ -338,18 +338,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"73921346-2338-9b91-2ba1-927c25852a1c"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Pre-built composable modules to speed up development."}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -368,9 +368,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Speed up your development with our ready-to-use modules. TurtleCI offers a comprehensive library of pre-built steps for tasks like running tests, building code, and deploying to servers."}
@@ -379,18 +379,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"73921346-2338-9b91-2ba1-927c25852a26"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Help Others"}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -409,9 +409,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Reuse build workflows across different environments—development, staging, and production. This saves time and effort by eliminating the need to reconfigure for each environment, ensuring consistency and efficiency throughout the deployment process."}
@@ -420,18 +420,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"73921346-2338-9b91-2ba1-927c25852a30"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Automatically trigger builds on commit events."}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -450,9 +450,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"With every code push, TurtleCI automatically triggers a new build, eliminating the need for manual intervention. Simply submit changes, and the pipeline runs seamlessly. This feature boosts team productivity by ensuring continuous integration and smooth, efficient workflows."}
@@ -478,42 +478,42 @@ className={`w-image`} />
 </div>
 </section>
 <section
-className={`w-element c16sffq6 cwqsbw c1vtrtst ${"mastmulti-os-section"}`}>
+className={`w-element ${"mastmulti-os-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1d2jaa0 c1xfacko ${"padding-global is-hero"}`}>
+className={`w-element ${"padding-global is-hero"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cm8azr1 c176ublo c1viuxvl c9bgjuu c13qfgf c10rtf3d c146xu6l c168g7wn c1ml4qhu ${"codify-grid"}`}>
+className={`w-element ${"codify-grid"}`}>
 <section
 id={"w-node-_7621a218-f4a1-1056-ffdd-ecebdc93fb73-a5d97bcf"}
 className={`w-element ${"mastmulti-os-left-column"}`}>
 <div
-className={`w-element cbplqux c7xx1rg cdzvqh6 ${"rl_faq1_component"}`}>
+className={`w-element ${"rl_faq1_component"}`}>
 <div
-className={`w-element c1fs6dqh c1kuwk32 c133g3f6 ${"rl_faq1_heading-wrapper"}`}>
+className={`w-element ${"rl_faq1_heading-wrapper"}`}>
 <h3
-className={`w-element c1noxpoj c18ghmj7 ct1fxvf ${"text-color-brand text-align-left"}`}>
+className={`w-element ${"text-color-brand text-align-left"}`}>
 {"MastMulti-OS"}
 </h3>
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <div
 className={`w-element ${"rl_faq1_list"}`}>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"7621a218-f4a1-1056-ffdd-ecebdc93fb7e"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Dedicated macOS and Ubuntu Environments"}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -532,9 +532,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Monsectetuer adipiscing elit cras elementum duis pulvinar temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae."}
@@ -543,18 +543,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"7621a218-f4a1-1056-ffdd-ecebdc93fb88"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h4
 className={`w-element`}>
 {"Optimized for Mobile and Web Development"}
 </h4>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c1s9hj7p cufrovc c1miup9g cbplqux c1g7apm c7xx1rg cdzvqh6 c14jek5s ctx8ibw c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon w-embed"}`}>
+className={`w-element ${"rl_faq1_icon w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -573,9 +573,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Speed up your development with our ready-to-use modules. TurtleCI offers a comprehensive library of pre-built steps for tasks like running tests, building code, and deploying to servers."}
@@ -600,22 +600,22 @@ className={`w-image`} />
 </div>
 </section>
 <section
-className={`w-element c16sffq6 cwqsbw c1vtrtst ${"multi-framework-section"}`}>
+className={`w-element ${"multi-framework-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1d2jaa0 c1xfacko ${"padding-global is-hero"}`}>
+className={`w-element ${"padding-global is-hero"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cm8azr1 c176ublo c1viuxvl c9bgjuu c13qfgf c10rtf3d c146xu6l c168g7wn c1ml4qhu ${"codify-grid"}`}>
+className={`w-element ${"codify-grid"}`}>
 <section
 id={"w-node-a63b472e-a1da-bb3a-d92c-e5e08816100c-a5d97bcf"}
 className={`w-element ${"codify-left-column"}`}>
 <h3
-className={`w-element c1noxpoj c18ghmj7 ct1fxvf ${"text-color-brand text-align-left"}`}>
+className={`w-element ${"text-color-brand text-align-left"}`}>
 {"Multi-Framework Compatibility"}
 </h3>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <p
 className={`w-element`}>
 {"Support popular frameworks such as React Native, Flutter, Native iOS, and Android, providing flexibility for any tech stack. This ensures smooth integration and efficient development across platforms, making it easy to adapt to different project requirements."}
@@ -636,22 +636,22 @@ className={`w-image`} />
 </div>
 </section>
 <section
-className={`w-element c8tr0lu cwqsbw c1vtrtst ${"advanced-logging-section"}`}>
+className={`w-element ${"advanced-logging-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1d2jaa0 c1xfacko ${"padding-global is-hero"}`}>
+className={`w-element ${"padding-global is-hero"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cm8azr1 c176ublo c1viuxvl c9bgjuu c13qfgf c10rtf3d c146xu6l c168g7wn c1ml4qhu ${"codify-grid"}`}>
+className={`w-element ${"codify-grid"}`}>
 <section
 id={"w-node-_1314f315-0d5a-049d-66b0-0dc57a7d21d9-a5d97bcf"}
 className={`w-element ${"codify-left-column"}`}>
 <h3
-className={`w-element c1noxpoj c18ghmj7 ct1fxvf ${"text-color-brand text-align-left"}`}>
+className={`w-element ${"text-color-brand text-align-left"}`}>
 {"Advanced Logging"}
 </h3>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <p
 className={`w-element`}>
 {"Track build times, manage error logs, and monitor every step of your pipeline with Advanced Logging in TurtleCI. It provides comprehensive insights into your build process and helps you identify issues early, ensuring smooth, efficient builds and simplifying troubleshooting."}
@@ -665,52 +665,52 @@ src={"/turtleci-import/images/Web_illustration_13-1_1.avif"}
 loading={"lazy"}
 width={1104}
 alt={"Advanced Logging Illustration showing 2 person monitoring data"}
-className={`w-image cr8ex2n c1ogibdx cm2lply ck7mm0g c431rxe ${"image-advanced-logging"}`} />
+className={`w-image ${"image-advanced-logging"}`} />
 </div>
 </div>
 </div>
 </div>
 </section>
 <section
-className={`w-element cwqsbw c1vtrtst ${"cta-section"}`}>
+className={`w-element ${"cta-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1sjoqyl carupg6 cazdpea c1g67dw5 c74orcy cwqsbw cndrtrt c1vtrtst c1tlh46y ccwjzqv c1nyqhf9 c1upswbh cqpg39m c16d75ht cdvu0n4 c19wmnr4 ${"cta_box-wrap background-color-dark"}`}>
+className={`w-element ${"cta_box-wrap background-color-dark"}`}>
 <div
-className={`w-element c8d04es c110uequ c4gouwl ck80r54 c1fs6dqh cbplqux c1qu1cb1 c1g7apm c7xx1rg ctx8ibw c14jek5s cdzvqh6 ccwjzqv c2ykn3m crwxlzb cb9ahd3 c1dem3yf c9fwhrd cbtr22e cq8fywn cs6j0y1 c1cuw1q6 cajtztt cq6d6kz ccfm18d cn11m3v c1ruwqfa c1u7ehrg ${"cta_w-bg_main_lg"}`}>
+className={`w-element ${"cta_w-bg_main_lg"}`}>
 <div
-className={`w-element c16v4zl c1i5hu5a cogx7qt cj5gfwl ${"cta_heading-wrap"}`}>
+className={`w-element ${"cta_heading-wrap"}`}>
 <h3
-className={`w-element c15jj1ft cx3yy4n ${"cta-heading"}`}>
+className={`w-element ${"cta-heading"}`}>
 {"Experience the speed, scalability, and simplicity of TurtleCI with zero risk."}
 </h3>
 </div>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <div
-className={`w-element c16v4zl c6mkfsn c3yb4wn crwxlzb c125ucm9 c1dem3yf cv5u0wn cogx7qt c1pbmtwn cq6d6kz cj5gfwl cl41q2c c1u7ehrg ${"cta_content-wrap"}`}>
+className={`w-element ${"cta_content-wrap"}`}>
 <p
-className={`w-element ck80r54 ${"text-color-alternate"}`}>
+className={`w-element ${"text-color-alternate"}`}>
 {"Start for Free Trial and build, test, and deploy with confidence."}
 </p>
 </div>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <a
 aria-label={"Go to TurtleCI Console"}
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw cum4mnn ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1jbh7w8 c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn cdzvqh6 cow3ufv crld1xj ciwacd0 c1ap9ppu ${"button-tertiary"}`}>
+className={`w-element ${"button-tertiary"}`}>
 <div
 className={`w-element`}>
 {"Start Free Trial"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -736,38 +736,38 @@ className={`w-element`} />
 </section>
 <footer
 data-wf--footer-2--variant={"style-1"}
-className={`w-element ccgyw5d cwqsbw c1ie99sc cadn3oz ${"footer"}`}>
+className={`w-element ${"footer"}`}>
 <div
-className={`w-element c1hxqw1p caai4an c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s cmh603w c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c1cnynqc ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c1viuxvl c9bgjuu c13qfgf c10rtf3d c1g7apm c1s7gu6l ccwjzqv c1591u52 cla4xsu c3yb4wn crwxlzb c125ucm9 cnphsm6 cv5u0wn cu8axpx c114xu6n c1h3kawa chq3ky0 cfe1vus c8ps3s4 c1i3j2um clqhs5g cul534n ca9mwfu c1ou5bby c7xx1s3 c13baokj c17zx7pk c68hmk6 cese208 c13z7luj ck9ykc8 c12iq66h cx7q1ul ${"footer_grid footer-2"}`}>
+className={`w-element ${"footer_grid footer-2"}`}>
 <div
 id={"w-node-d9852e9b-78da-4b05-14ca-46237e0756e5-7e0756e1"}
-className={`w-element c1eeu7wv covda95 c1mjz48u c1ea4sxw c39dolp c1ngc8mk cpuhn16 c1ggozrk cb2dvav ccx8w9t c1ofs5db ${"footer_left-content footer-2"}`}>
+className={`w-element ${"footer_left-content footer-2"}`}>
 <Image
 width={70}
 loading={"lazy"}
 alt={"TurtleCI Main Logo"}
 src={"/turtleci-import/images/TurtleCI-logo.png"}
-className={`w-image c1mfc36h c1lmt071 ${"footer_logo"}`} />
+className={`w-image ${"footer_logo"}`} />
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <div
-className={`w-element cvdimgi c6s7woo c1qpv6k ${"text-size-sm"}`}>
+className={`w-element ${"text-size-sm"}`}>
 {"Cost-Effective CI/CD Platform for Devops"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <div
-className={`w-element c12lvo49 c8gnt76 covda95 c1mjz48u c1ea4sxw c1y39kfe c7xx1rg cdzvqh6 ${"social-links"}`}>
+className={`w-element ${"social-links"}`}>
 <a
 aria-label={"Visit TurtleCI Facebook"}
 href={"https://www.facebook.com/turtleci"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -801,9 +801,9 @@ className={`w-element`} />
 <a
 aria-label={"Visit TurtleCI Youtube"}
 href={"https://www.youtube.com/@TurtleCI"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 viewBox={"0 0 152 152"}
 width={"100%"}
@@ -838,9 +838,9 @@ className={`w-element`} />
 <a
 aria-label={"Visit TurtleCI LinkedIn"}
 href={"https://www.linkedin.com/company/turtleci/"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 viewBox={"0 0 32 32"}
 width={"100%"}
@@ -865,15 +865,15 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c1s0k8lp c1irosg5 cr0hif c1qu1cb1 c1viuxvl c1yqysa c13qfgf c1g7apm c7xx1rg c10rtf3d c7ql8jf cygo89w c2ykn3m crwxlzb cioexil c1oluv4f c18ir677 cyb4w8x c1yofgyr cxz3mpi c1ef4itk c1eu5nh c1luecoc c1frnw7z c1tv0fkb chhzgn6 c1k0gcvl c3oo163 c1bvp1x3 c1z0drro c9dacs1 ${"footer_center-block"}`}>
+className={`w-element ${"footer_center-block"}`}>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Product"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"features-turtleci.html"}
 aria-current={"page"}
@@ -881,7 +881,7 @@ className={`w-element ${"w--current"}`}>
 {"Features"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"pricing-plan.html"}
 className={`w-element`}>
@@ -889,20 +889,20 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Company"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"about-us.html"}
 className={`w-element`}>
 {"About Us"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"blogs.html"}
 className={`w-element`}>
@@ -910,20 +910,20 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Legal Terms"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"terms-of-service.html"}
 className={`w-element`}>
 {"Terms of Service"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"privacy-and-policy.html"}
 className={`w-element`}>
@@ -931,20 +931,20 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Support"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"documentation.html"}
 className={`w-element`}>
 {"Documentation"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"contact-us.html"}
 className={`w-element`}>
@@ -954,21 +954,21 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cwqsbw ca7ovlo ${"spacer-80px"}`} />
+className={`w-element ${"spacer-80px"}`} />
 </div>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"footnote"}`}>
+className={`w-element ${"footnote"}`}>
 <p
-className={`w-element c1nsb0xd c1egpnue ${"text-color-secondary caption-md"}`}>
+className={`w-element ${"text-color-secondary caption-md"}`}>
 {"@2024 TurtleCI. All Rights Reserved"}
 </p>
 </div>
 </div>
 </footer>
 <div
-className={`w-element c1m333il c1tp54gh cnkz51l cbdh0ku c19u1i0f ${"intercom-embed"}`}>
+className={`w-element ${"intercom-embed"}`}>
 <div
-className={`w-element c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 c14jek5s ctx8ibw ${"w-embed w-script"}`}>
+className={`w-element ${"w-embed w-script"}`}>
 <HtmlEmbed
 clientOnly={true}
 code={"<script>\n  const APP_ID = \"gl275fli\" // IMPORTANT: Replace with your workspace ID\n  window.intercomSettings = {\n    api_base: \"https://api-iam.intercom.io\",\n    app_id: APP_ID,\n  };\n</script>"}

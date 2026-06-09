@@ -11,11 +11,11 @@
 
       export const projectDomain = "turtleci-staging";
 
-      export const lastPublished = "2026-06-08T02:55:34.619Z";
+      export const lastPublished = "2026-06-09T07:15:29.598Z";
 
       export const siteName = undefined;
 
-      export const breakpoints = [{"id":"base"},{"id":"45f5c977-5f83-41e9-8b7d-9695fe51f7fc","maxWidth":991},{"id":"2e71b6b0-c8bf-44e8-9431-2362a90f8f4e","maxWidth":768},{"id":"a6f71109-250c-4881-b222-dd77b71daa01","maxWidth":767},{"id":"95e56516-8d86-425f-8f6b-4cf342440c91","maxWidth":479},{"id":"dcd00c70-1b4c-4d5e-88a5-9eed4ce9d845","minWidth":768}];
+      export const breakpoints = [{"id":"base"},{"id":"e8ff68f4-dfa4-4b4b-85d3-b344fd3124f3","maxWidth":991},{"id":"745b3d7d-ee2d-4f57-a585-684ecde78788","maxWidth":768},{"id":"4bd8cf14-661c-403d-906b-7f4dd6314b1d","maxWidth":767},{"id":"ef612b5b-f9c5-44ee-a19f-ffacebe27cd6","maxWidth":479},{"id":"fd73618b-33c4-431a-8752-9e45b5ddf95a","minWidth":768}];
 
       export const favIconAsset: string | undefined =
         undefined;
@@ -45,84 +45,84 @@ className={`w-html-embed`} />
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
 <div
-className={`w-element cm0u0jj c1nyqhf9 c1upswbh c1rwc4sm c1t335do c1cinhhj ${"page-wrap"}`}>
+className={`w-element ${"page-wrap"}`}>
 <div
-className={`w-element c1chl3ha c1m333il cds5ulr c1rfbdao cxsker3 caoid09 cfko4c5 cmcjy5s c1ek6cds c16agd5o c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"global-styles w-embed"}`}>
+className={`w-element ${"global-styles w-embed"}`}>
 <HtmlEmbed
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
 </div>
 <div
-className={`w-element cmh603w c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-css w-embed"}`} />
+className={`w-element ${"page-css w-embed"}`} />
 <div
-className={`w-element c1chl3ha cfko4c5 cmcjy5s ctbzh2u c16agd5o c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-js w-embed w-iframe"}`} />
+className={`w-element ${"page-js w-embed w-iframe"}`} />
 <main
 className={`w-element ${"main-wrap"}`}>
 <nav
 data-wf--navbar--variant={"style-1"}
-className={`w-element c3pv99h c428y35 ch73i66 c1d5da0p c1xgwmfx c155y887 c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o cvg101s c1n9jjcq ${"navbar"}`}>
+className={`w-element ${"navbar"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1ro25gr c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c1cnynqc c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c15trozn ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c13lcbtl c7xx1rg cdzvqh6 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1udtbj5 c4s3jf c1tfz2nu c1isl1ly cb9ahd3 cnphsm6 cu8axpx cley3lg csuuk33 clqhs5g c16fhz67 cr5vxx5 ${"nav_flexwrap"}`}>
+className={`w-element ${"nav_flexwrap"}`}>
 <div
-className={`w-element c4yai1e cc964en cwnrfm6 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"nav_leftbox"}`}>
+className={`w-element ${"nav_leftbox"}`}>
 <a
 href={"index.html"}
-className={`w-element ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"nav_logo-link w-inline-block"}`}>
+className={`w-element ${"nav_logo-link w-inline-block"}`}>
 <Image
 src={"/turtleci-import/images/TurtleCI-logo.png"}
 loading={"lazy"}
 width={70}
 alt={"TurtleCI Main Logo"}
-className={`w-image c1mfc36h c1lmt071 ccn6bca c1dmj322 coxu29m cv7k4t ${"nav_logo"}`} />
+className={`w-image ${"nav_logo"}`} />
 </a>
 </div>
 <div
-className={`w-element cdzvqh6 cmaylbl c1f96ip4 c19dnpzs cb9ahd3 cnphsm6 c12u855l c12lwdaa c7sdmwr c6660c5 cq6d6kz c14mmn5y c1ogj039 c3vgo57 c1hi9tqm c1u7ehrg ${"nav_rightbox"}`}>
+className={`w-element ${"nav_rightbox"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g c1y39kfe c7xx1rg cdzvqh6 cmaylbl c1f96ip4 c19dnpzs cb9ahd3 cnphsm6 cioexil czwjesa c12oouua c1tnh22f c173o5z5 c2q0ag4 chq3ky0 cfe1vus c149hts6 ceq9pda c1ca9zgk c6mrxx0 c74o7rt cocic4y c1jh5jmh c2jugk3 cubp8mi cc49nab c1d195ce c7tx598 cca4j68 crugq0o c1mqnin4 c12gnh9b cn5kibl c1rwc4sm c1t335do c1cinhhj cat6qrd c10bep2g c1w82hja coqt328 c39fbfu c1ou5bby c7xx1s3 cubhqip cf74d0e ctltzze ck7hzt7 c1i4lgve c1opa2bv c1mrgejv cjq76t4 c1l2cfg6 c1t8kji7 cijgvnt chkfzp4 c1bp1gy4 c1qx1hjk c15owlff c7jdf9i cxwnwit ${"nav_actions"}`}>
+className={`w-element ${"nav_actions"}`}>
 <div
-className={`w-element c1s0k8lp c1irosg5 cdzvqh6 cmaylbl c1f96ip4 c19dnpzs czwjesa c12oouua chq3ky0 cfe1vus c19bjlry cat6qrd c10bep2g c1ou5bby c7xx1s3 cu3keg7 ${"nav_link-wrap"}`}>
+className={`w-element ${"nav_link-wrap"}`}>
 <a
 href={"about-us.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"About Us "}
 </a>
 <a
 href={"features-turtleci.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Features "}
 </a>
 <a
 href={"pricing-plan.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Pricing "}
 </a>
 <a
 href={"contact-us.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Contact "}
 </a>
 <a
 href={"blogs.html"}
 aria-current={"page"}
-className={`w-element cvd9qfr c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right w--current"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right w--current"}`}>
 {"Blog "}
 </a>
 <a
 href={"documentation.html"}
-className={`w-element c1noxpoj c8g4rbm c2ix4r5 c19dwj4u c1ml7m1e c434y6l ${"nav_link text-weight-semibold text-align-right"}`}>
+className={`w-element ${"nav_link text-weight-semibold text-align-right"}`}>
 {"Documentation"}
 </a>
 </div>
 <a
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"Get Started"}
@@ -131,13 +131,13 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 c13lcbtl c1xeu4lt ckq8af1 cmh603w ccwjzqv ccsp7fv cvg101s c16ztblm csld4j0 c1n9jjcq cqj8kmi ${"nav_menu-trigger-wrap"}`}>
+className={`w-element ${"nav_menu-trigger-wrap"}`}>
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex cds5ulr cjfjc1q cxsker3 caoid09 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1udtbj5 c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-1"}`} />
+className={`w-element ${"nav_menu-trigger_line line-1"}`} />
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex cqkoggo cjfjc1q cxsker3 caoid09 cwhjckb c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1f2vexh c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-2"}`} />
+className={`w-element ${"nav_menu-trigger_line line-2"}`} />
 <div
-className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex c1tp54gh cjfjc1q cxnec9k caoid09 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"nav_menu-trigger_line line-3"}`} />
+className={`w-element ${"nav_menu-trigger_line line-3"}`} />
 </div>
 </div>
 </div>
@@ -145,36 +145,36 @@ className={`w-element c1t5f8e2 c1kuwk32 c7k79tq c1ilrpex c1tp54gh cjfjc1q cxnec9
 </div>
 </nav>
 <section
-className={`w-element c16sffq6 ce9b4sv c17jqo6w ${"hero-section no-margin"}`}>
+className={`w-element ${"hero-section no-margin"}`}>
 <div
-className={`w-element c1gvonls c1wvqjux ccwjzqv cfko4c5 cmcjy5s caz8dwc c22gunz c1uuurd8 c14bv3th c1t0am3b c1j65pkq ${"max-100vw"}`}>
+className={`w-element ${"max-100vw"}`}>
 <div
-className={`w-element cbplqux c1qu1cb1 c1g7apm c7xx1rg cdzvqh6 c1ilrpex cds5ulr cjfjc1q cxnec9k caoid09 czq94ya c170v7gy c13s97cq c11t62zo cfo0qtk c1i1wffc ${"absolute-hero-heading"}`}>
+className={`w-element ${"absolute-hero-heading"}`}>
 <h1
-className={`w-element c1noxpoj c18ghmj7 c1fs6dqh ${"text-color-brand style-55"}`}>
+className={`w-element ${"text-color-brand style-55"}`}>
 {"Blogs"}
 </h1>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <div
-className={`w-element c20zflo c1kuwk32 c3plzlj c1fs6dqh ${"text-size-lg max-width-medium text-align-center"}`}>
+className={`w-element ${"text-size-lg max-width-medium text-align-center"}`}>
 {"Effortlessly automate your build, test, and deployment pipelines across macOS and Linux with a cost-effective, flexible CI/CD platform."}
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <div
-className={`w-element c61wgnw c1sfgv62 c4y6pxj cbpji3r c1g7apm c7xx1rg cdzvqh6 c2ykn3m crwxlzb c1ef4itk c1eu5nh c1bvp1x3 c1z0drro ${"button-group"}`}>
+className={`w-element ${"button-group"}`}>
 <a
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"Start For Free"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -195,15 +195,15 @@ className={`w-element`} />
 </a>
 <a
 href={"contact-us.html"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c428y35 c1tpxml8 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1jbh7w8 c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn cdzvqh6 csemwku crld1xj ccfi1nz c1juhpdv cwek1tm ${"button-secondary"}`}>
+className={`w-element ${"button-secondary"}`}>
 <div
 className={`w-element`}>
 {"Talk to Us"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -225,53 +225,53 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element crdb61l c1kuwk32 c4gouwl ${"div-block-2"}`} />
+className={`w-element ${"div-block-2"}`} />
 </div>
 </section>
 <section
-className={`w-element cwqsbw c1vtrtst ${"blog-section"}`}>
+className={`w-element ${"blog-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1ro25gr c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c1cnynqc c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c15trozn ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1kuwk32 cfko4c5 cmcjy5s ${"blog-collection overflow-hidden"}`}>
+className={`w-element ${"blog-collection overflow-hidden"}`}>
 <div
-className={`w-element c1kuwk32 ${"collection-list-wrapper w-dyn-list"}`}>
+className={`w-element ${"collection-list-wrapper w-dyn-list"}`}>
 <div
 role={"list"}
-className={`w-element c1le6v90 c4bwi3b c1jkbzro czrt1di c13qfgf c1kuwk32 c10rtf3d cyb4w8x c13z7luj c1oxhd9r c1opey3x c17tx2n0 chhzgn6 cx7q1ul c1p9sq7j c17xspe0 c6x222 ${"collection-list w-dyn-items"}`}>
+className={`w-element ${"collection-list w-dyn-items"}`}>
 <div
 role={"listitem"}
-className={`w-element c1ogibdx ck7mm0g ${"collection-item w-dyn-item"}`}>
+className={`w-element ${"collection-item w-dyn-item"}`}>
 <a
 aria-label={"Read More"}
 href={"#"}
-className={`w-element c1kuwk32 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly c1ngc8mk cpuhn16 cb2dvav ccx8w9t ${"blog-card w-inline-block"}`}>
+className={`w-element ${"blog-card w-inline-block"}`}>
 <div
-className={`w-element c11grkh2 c153xzk3 cgoja2o cnhs04e cfko4c5 cmcjy5s cgdkt0f c1uz19ub c1a6avdk c1ogibdx crwoak8 c1ur1og2 cw0k7t1 ck7mm0g ${"blog-img-wrapper"}`}>
+className={`w-element ${"blog-img-wrapper"}`}>
 <Image
 src={"https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg"}
 loading={"lazy"}
 alt={""}
-className={`w-image cmh603w ${"w-dyn-bind-empty"}`} />
+className={`w-image ${"w-dyn-bind-empty"}`} />
 </div>
 <div
-className={`w-element c1kuo939 caxh4vs c18xbpvs ${"blog_item_content"}`}>
+className={`w-element ${"blog_item_content"}`}>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <div
-className={`w-element c1ogibdx ck7mm0g cmh603w ${"text-block w-dyn-bind-empty"}`} />
+className={`w-element ${"text-block w-dyn-bind-empty"}`} />
 <h2
-className={`w-element c16ycx9u cinhnxj cte2vf8 cmh603w c1ogibdx c43eehi ck7mm0g c1gkpfk9 ${"blog-heading w-dyn-bind-empty"}`} />
+className={`w-element ${"blog-heading w-dyn-bind-empty"}`} />
 <p
-className={`w-element c1kuwk32 c1iel4hw cmh603w cfko4c5 cmcjy5s c1ek6cds c16agd5o c1qhvmyk c8cjjn4 ${"max-width-full text-style-3lines w-dyn-bind-empty"}`} />
+className={`w-element ${"max-width-full text-style-3lines w-dyn-bind-empty"}`} />
 </div>
 </a>
 </div>
 </div>
 <div
-className={`w-element cq967bf cy7z5dk ${"w-dyn-empty"}`}>
+className={`w-element ${"w-dyn-empty"}`}>
 <div
 className={`w-element`}>
 {"No items found."}
@@ -279,18 +279,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c1g7apm c7xx1rg c189gpym cdzvqh6 ${"button-center"}`}>
+className={`w-element ${"button-center"}`}>
 <a
 href={"features-turtleci.html"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"Explore Our Services"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -315,45 +315,45 @@ className={`w-element`} />
 </div>
 </section>
 <section
-className={`w-element cwqsbw c1vtrtst ${"cta-section"}`}>
+className={`w-element ${"cta-section"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1ro25gr c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c1cnynqc c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c15trozn ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1sjoqyl carupg6 cazdpea c1g67dw5 c74orcy cwqsbw cndrtrt c1vtrtst c1tlh46y ccwjzqv c1nyqhf9 c1upswbh cqpg39m c16d75ht cdvu0n4 c19wmnr4 ${"cta_box-wrap background-color-dark"}`}>
+className={`w-element ${"cta_box-wrap background-color-dark"}`}>
 <div
-className={`w-element c8d04es c110uequ c4gouwl ck80r54 c1fs6dqh cbplqux c1qu1cb1 c1g7apm c7xx1rg ctx8ibw c14jek5s cdzvqh6 ccwjzqv c2ykn3m crwxlzb cb9ahd3 c1dem3yf c9fwhrd cbtr22e cq8fywn cs6j0y1 c1cuw1q6 cajtztt cq6d6kz ccfm18d cn11m3v c1ruwqfa c1u7ehrg ${"cta_w-bg_main_lg"}`}>
+className={`w-element ${"cta_w-bg_main_lg"}`}>
 <div
-className={`w-element c16v4zl c1i5hu5a cogx7qt cj5gfwl ${"cta_heading-wrap"}`}>
+className={`w-element ${"cta_heading-wrap"}`}>
 <h3
-className={`w-element c15jj1ft cx3yy4n ${"cta-heading"}`}>
+className={`w-element ${"cta-heading"}`}>
 {"Experience the speed, scalability, and simplicity of TurtleCI with zero risk."}
 </h3>
 </div>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <div
-className={`w-element c16v4zl c6mkfsn c3yb4wn crwxlzb c125ucm9 c1dem3yf cv5u0wn cogx7qt c1pbmtwn cq6d6kz cj5gfwl cl41q2c c1u7ehrg ${"cta_content-wrap"}`}>
+className={`w-element ${"cta_content-wrap"}`}>
 <p
-className={`w-element ck80r54 ${"text-color-alternate"}`}>
+className={`w-element ${"text-color-alternate"}`}>
 {"Start for Free Trial and build, test, and deploy with confidence."}
 </p>
 </div>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <a
 aria-label={"Go to TurtleCI Console"}
 href={"https://console.turtleci.io/login"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc c1dftv06 c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly cu73m4q ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw cum4mnn ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1jbh7w8 c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn cdzvqh6 cow3ufv crld1xj ciwacd0 c1ap9ppu ${"button-tertiary"}`}>
+className={`w-element ${"button-tertiary"}`}>
 <div
 className={`w-element`}>
 {"Start Free Trial"}
 </div>
 <div
-className={`w-element cmaf0s5 c1afds52 c14jek5s ctx8ibw c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"button__ic w-embed"}`}>
+className={`w-element ${"button__ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -379,38 +379,38 @@ className={`w-element`} />
 </section>
 <footer
 data-wf--footer-2--variant={"style-1"}
-className={`w-element ccgyw5d cwqsbw c1ie99sc cadn3oz ${"footer"}`}>
+className={`w-element ${"footer"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc c1xn1ugd ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1ro25gr c1kuwk32 c4gouwl caxr30d caqe5xq c1c8uskx cmbbocb c1xn1ugd c1cnynqc c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe c15trozn ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c1viuxvl c9bgjuu c13qfgf c10rtf3d c1g7apm c1s7gu6l ccwjzqv c1591u52 cla4xsu c3yb4wn crwxlzb c125ucm9 cnphsm6 cv5u0wn cu8axpx c114xu6n c1h3kawa chq3ky0 cfe1vus c8ps3s4 c1i3j2um clqhs5g cul534n ca9mwfu c1ou5bby c7xx1s3 c13baokj c17zx7pk c68hmk6 cese208 c13z7luj ck9ykc8 c12iq66h cx7q1ul ${"footer_grid footer-2"}`}>
+className={`w-element ${"footer_grid footer-2"}`}>
 <div
 id={"w-node-d9852e9b-78da-4b05-14ca-46237e0756e5-7e0756e1"}
-className={`w-element c1eeu7wv covda95 c1mjz48u c1ea4sxw c39dolp c1ngc8mk cpuhn16 c1ggozrk cb2dvav ccx8w9t c1ofs5db ${"footer_left-content footer-2"}`}>
+className={`w-element ${"footer_left-content footer-2"}`}>
 <Image
 width={70}
 loading={"lazy"}
 alt={"TurtleCI Main Logo"}
 src={"/turtleci-import/images/TurtleCI-logo.png"}
-className={`w-image c1mfc36h c1lmt071 ${"footer_logo"}`} />
+className={`w-image ${"footer_logo"}`} />
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <div
-className={`w-element cvdimgi c6s7woo c1qpv6k ${"text-size-sm"}`}>
+className={`w-element ${"text-size-sm"}`}>
 {"Cost-Effective CI/CD Platform for Devops"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <div
-className={`w-element c12lvo49 c8gnt76 covda95 c1mjz48u c1ea4sxw c1y39kfe c7xx1rg cdzvqh6 ${"social-links"}`}>
+className={`w-element ${"social-links"}`}>
 <a
 aria-label={"Visit TurtleCI Facebook"}
 href={"https://www.facebook.com/turtleci"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -444,9 +444,9 @@ className={`w-element`} />
 <a
 aria-label={"Visit TurtleCI Youtube"}
 href={"https://www.youtube.com/@TurtleCI"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 viewBox={"0 0 152 152"}
 width={"100%"}
@@ -481,9 +481,9 @@ className={`w-element`} />
 <a
 aria-label={"Visit TurtleCI LinkedIn"}
 href={"https://www.linkedin.com/company/turtleci/"}
-className={`w-element c61wgnw c1sfgv62 c1y39kfe c7xx1rg c1dftv06 ckwuexc c15s0n45 c1mhj3mw ch2lfjv c1u6rwg2 c1j84joi c6zflky cp8mt3t c1khrccq c4s3jf c1tfz2nu c1isl1ly ${"footer_social w-inline-block"}`}>
+className={`w-element ${"footer_social w-inline-block"}`}>
 <div
-className={`w-element c1a91cgv cdznpsm c1kkah6p cd66rhb ckq8af1 c14jek5s ctx8ibw c1qwrzhk cld605x c5uz77h c1qhug9n c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"footer_social-ic w-embed"}`}>
+className={`w-element ${"footer_social-ic w-embed"}`}>
 <svg
 viewBox={"0 0 32 32"}
 width={"100%"}
@@ -508,22 +508,22 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c1s0k8lp c1irosg5 cr0hif c1qu1cb1 c1viuxvl c1yqysa c13qfgf c1g7apm c7xx1rg c10rtf3d c7ql8jf cygo89w c2ykn3m crwxlzb cioexil c1oluv4f c18ir677 cyb4w8x c1yofgyr cxz3mpi c1ef4itk c1eu5nh c1luecoc c1frnw7z c1tv0fkb chhzgn6 c1k0gcvl c3oo163 c1bvp1x3 c1z0drro c9dacs1 ${"footer_center-block"}`}>
+className={`w-element ${"footer_center-block"}`}>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Product"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"features-turtleci.html"}
 className={`w-element`}>
 {"Features"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"pricing-plan.html"}
 className={`w-element`}>
@@ -531,20 +531,20 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Company"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"about-us.html"}
 className={`w-element`}>
 {"About Us"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"blogs.html"}
 aria-current={"page"}
@@ -553,20 +553,20 @@ className={`w-element ${"w--current"}`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Legal Terms"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"terms-of-service.html"}
 className={`w-element`}>
 {"Terms of Service"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"privacy-and-policy.html"}
 className={`w-element`}>
@@ -574,20 +574,20 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 cdzvqh6 ${"footer-link-wrapper"}`}>
+className={`w-element ${"footer-link-wrapper"}`}>
 <div
-className={`w-element c20zflo cn9ibz0 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5"}`}>
+className={`w-element ${"heading-style-h5"}`}>
 {"Support"}
 </div>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"documentation.html"}
 className={`w-element`}>
 {"Documentation"}
 </a>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <a
 href={"contact-us.html"}
 className={`w-element`}>
@@ -597,21 +597,21 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cwqsbw ca7ovlo ${"spacer-80px"}`} />
+className={`w-element ${"spacer-80px"}`} />
 </div>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"footnote"}`}>
+className={`w-element ${"footnote"}`}>
 <p
-className={`w-element c1nsb0xd c1egpnue ${"text-color-secondary caption-md"}`}>
+className={`w-element ${"text-color-secondary caption-md"}`}>
 {"@2024 TurtleCI. All Rights Reserved"}
 </p>
 </div>
 </div>
 </footer>
 <div
-className={`w-element c1m333il c1tp54gh cnkz51l cbdh0ku c19u1i0f ${"intercom-embed"}`}>
+className={`w-element ${"intercom-embed"}`}>
 <div
-className={`w-element c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 c14jek5s ctx8ibw ${"w-embed w-script"}`}>
+className={`w-element ${"w-embed w-script"}`}>
 <HtmlEmbed
 clientOnly={true}
 code={"<script>\n  const APP_ID = \"gl275fli\" // IMPORTANT: Replace with your workspace ID\n  window.intercomSettings = {\n    api_base: \"https://api-iam.intercom.io\",\n    app_id: APP_ID,\n  };\n</script>"}

@@ -11,11 +11,11 @@
 
       export const projectDomain = "turtleci-staging";
 
-      export const lastPublished = "2026-06-08T02:55:34.619Z";
+      export const lastPublished = "2026-06-09T07:15:29.598Z";
 
       export const siteName = undefined;
 
-      export const breakpoints = [{"id":"base"},{"id":"45f5c977-5f83-41e9-8b7d-9695fe51f7fc","maxWidth":991},{"id":"2e71b6b0-c8bf-44e8-9431-2362a90f8f4e","maxWidth":768},{"id":"a6f71109-250c-4881-b222-dd77b71daa01","maxWidth":767},{"id":"95e56516-8d86-425f-8f6b-4cf342440c91","maxWidth":479},{"id":"dcd00c70-1b4c-4d5e-88a5-9eed4ce9d845","minWidth":768}];
+      export const breakpoints = [{"id":"base"},{"id":"e8ff68f4-dfa4-4b4b-85d3-b344fd3124f3","maxWidth":991},{"id":"745b3d7d-ee2d-4f57-a585-684ecde78788","maxWidth":768},{"id":"4bd8cf14-661c-403d-906b-7f4dd6314b1d","maxWidth":767},{"id":"ef612b5b-f9c5-44ee-a19f-ffacebe27cd6","maxWidth":479},{"id":"fd73618b-33c4-431a-8752-9e45b5ddf95a","minWidth":768}];
 
       export const favIconAsset: string | undefined =
         undefined;
@@ -48,21 +48,21 @@ className={`w-html-embed`} />
 code={"<style>select{-webkit-appearance:none;appearance:none}@keyframes rotate-full-circle{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes cpa-bg-rotate{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style>"}
 className={`w-html-embed`} />
 <div
-className={`w-element cm0u0jj c1nyqhf9 c1upswbh c1t335do cecg1q c1cinhhj ${"page-wrap"}`}>
+className={`w-element ${"page-wrap"}`}>
 <div
-className={`w-element c1ro25gr c1m333il cds5ulr c1rfbdao cxsker3 caoid09 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"global-styles w-embed"}`}>
+className={`w-element ${"global-styles w-embed"}`}>
 <HtmlEmbed
 code={"<style>body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-smoothing:antialiased;text-rendering:optimizeLegibility}*[tabindex]:focus-visible,input[type=\"file\"]:focus-visible{outline:0.125rem solid #4d65ff;outline-offset:0.125rem}@media (min-width:1441px){body{font-size:1rem}}.w-richtext>:not(div):first-child,.w-richtext>div:first-child>:first-child{margin-top:0!important}.w-richtext>:last-child,.w-richtext ol li:last-child,.w-richtext ul li:last-child{margin-bottom:0!important}@media screen and (max-width:991px){.pricing_list.column-amount-5 div{grid-column:span 1}.pricing_list.column-amount-5>div:nth-child(5){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.pricing_list.column-amount-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50%);margin-left:auto;margin-right:auto}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 2;width:100%;max-width:calc(50% - 3.75em);margin-left:auto;margin-right:auto}}@media screen and (max-width:767px){.pricing_list.column-amount-3 div:nth-child(3){grid-column:span 1;max-width:100%}.testimonial_grid.column-3>div:nth-child(3){grid-column:span 1;width:100%}}@media screen and (max-width:479px){.pricing_list.column-amount-5 div{grid-column:span 1;width;100%;}.pricing_list.column-amount-5 div:nth-child(5){grid-column:span 1;max-width:100%}}</style>"}
 className={`w-html-embed`} />
 </div>
 <div
-className={`w-element cmh603w c14jek5s ctx8ibw ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-css w-embed"}`}>
+className={`w-element ${"page-css w-embed"}`}>
 <HtmlEmbed
 code={"<style>select{-webkit-appearance:none;appearance:none}@keyframes rotate-full-circle{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}@keyframes cpa-bg-rotate{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style>"}
 className={`w-html-embed`} />
 </div>
 <div
-className={`w-element c1ro25gr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"page-js w-embed w-iframe w-script"}`}>
+className={`w-element ${"page-js w-embed w-iframe w-script"}`}>
 <HtmlEmbed
 clientOnly={true}
 code={"<script>\ndocument.addEventListener(\"DOMContentLoaded\", function () {\n    gsap.timeline()\n  .to(\".cpa_cover\", { \n      y: \"-100%\", \n      duration: 0.8, \n      ease: \"power2.out\" \n  }, 0) // Start at 0\n  .fromTo(\".cpa_hero\", { \n      opacity: 0\n  },\n  { \n      opacity: 1, \n      duration: 1 \n  }, 0) // Start at 0\n  .fromTo(\".cpa_about\", { \n      opacity: 0\n  },\n  { \n      opacity: 1, \n      duration: 1 \n  }, 0) // Start at 0\n  .fromTo(\".cpa_hero_highlight\", { \n      opacity: 0, \n      y: \"1.5em\",\n  },\n  { \n      opacity: 1, \n      y: \"0em\", \n      duration: 0.8, \n      ease: \"power2.out\", \n      delay: 0.4 \n  }, 0) // Starts at 0, but delayed by 0.2s\n  .fromTo(\".cpa_navbar\", { \n      opacity: 0\n  },\n  { \n      opacity: 1, \n      duration: 0.6, \n      ease: \"power2.out\", \n      delay: 0.8 \n  }, 0); // Starts at 0, but delayed by 0.4s\n});\n</script>"}
@@ -99,63 +99,63 @@ className={`w-html-embed`} />
 <main
 className={`w-element ${"main-wrap"}`}>
 <nav
-className={`w-element c3pv99h c7q667e ch73i66 c1d5da0p c1xgwmfx c155y887 c1rwc4sm c1t335do c1cinhhj ${"cpa_navbar"}`}>
+className={`w-element ${"cpa_navbar"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c13lcbtl c7xx1rg c1chl3ha cfko4c5 cmcjy5s c1k9913m c16agd5o c1yofgyr c1k0gcvl ${"cpa_navbar_flex-wrap"}`}>
+className={`w-element ${"cpa_navbar_flex-wrap"}`}>
 <a
 href={"https://www.turtleci.io/"}
 target={"_blank"}
-className={`w-element ckwuexc cmh603w c1xn1ugd ${"cpa_navbar_leftbox w-inline-block"}`}>
+className={`w-element ${"cpa_navbar_leftbox w-inline-block"}`}>
 <Image
 src={"/turtleci-import/images/TurtleCI-logo.png"}
 loading={"lazy"}
 width={70}
 alt={"TurtleCI Main Logo"}
-className={`w-image cm0uvih c1w0yz8n c1xn1ugd ${"cpa_navbar_logo"}`} />
+className={`w-image ${"cpa_navbar_logo"}`} />
 </a>
 <div
-className={`w-element c1i7ve6l c2q6o0k c1aee7dx c7xx1rg cdzvqh6 cz1dbqk cmtw8ia c1mtge5i cjt5b5a c1cnynqc ${"cpa_navbar_lrightbox"}`}>
+className={`w-element ${"cpa_navbar_lrightbox"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k cdzvqh6 c1ovvada c173o5z5 c2q0ag4 c8ba5sw c1uqb5d4 ch8j29j c3p5aki chq3ky0 cfe1vus c149hts6 ceq9pda c1tgn0qk c1ca9zgk c1t5p4ol c74o7rt c1eylu9g c132mgzs c1kyf1zd cubp8mi cc49nab c1d195ce c7tx598 c1fxf2qs crugq0o c1mqnin4 c1m3ycyu cqlc3hu cp1crqp c1t335do cecg1q c1cinhhj c1586av8 coqt328 c39fbfu c1khhthh c1nj3xj4 c1kyk2lm c1np6jes c1ou5bby c7xx1s3 cubhqip cf74d0e c10nffi4 ctltzze c1ccfgsa c1i4lgve c1az46lv c1kpochy ckrq6tv c1l2cfg6 c1t8kji7 cijgvnt chkfzp4 cvz82l9 c1qx1hjk c15owlff c1i3w6qs c1l7z73p c1pqrddi c15trozn ${"cpa_navbar_menu"}`}>
+className={`w-element ${"cpa_navbar_menu"}`}>
 <a
 href={"#campaign"}
-className={`w-element c1tpxml8 c8g4rbm c12z5fd8 c1ml7m1e c434y6l ${"cpa_navbar_link"}`}>
+className={`w-element ${"cpa_navbar_link"}`}>
 {"Campaign"}
 </a>
 <a
 href={"#features"}
-className={`w-element c1tpxml8 c8g4rbm c12z5fd8 c1ml7m1e c434y6l ${"cpa_navbar_link"}`}>
+className={`w-element ${"cpa_navbar_link"}`}>
 {"Features"}
 </a>
 <a
 href={"#reason"}
-className={`w-element c1tpxml8 c8g4rbm c12z5fd8 c1ml7m1e c434y6l ${"cpa_navbar_link"}`}>
+className={`w-element ${"cpa_navbar_link"}`}>
 {"Why choose TurtleCI"}
 </a>
 <a
 href={"#faq"}
-className={`w-element c1tpxml8 c8g4rbm c12z5fd8 c1ml7m1e c434y6l ${"cpa_navbar_link"}`}>
+className={`w-element ${"cpa_navbar_link"}`}>
 {"FAQs"}
 </a>
 <div
-className={`w-element cggrpw0 ccx0tax c1f9ovza c74clpy ${"cpa_navbar_menu-line"}`} />
+className={`w-element ${"cpa_navbar_menu-line"}`} />
 <a
 href={"https://www.turtleci.io/"}
 target={"_blank"}
-className={`w-element c1tpxml8 c8g4rbm c12z5fd8 c1ml7m1e c434y6l ${"cpa_navbar_link"}`}>
+className={`w-element ${"cpa_navbar_link"}`}>
 {"Explore TurtleCI"}
 </a>
 <div
-className={`w-element cmh603w cc3k908 c1rqlhiv ${"cpa_navbar_menu_btn-wrap"}`}>
+className={`w-element ${"cpa_navbar_menu_btn-wrap"}`}>
 <a
 href={"#apply"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc cmh603w cu73m4q c1xn1ugd ${"button-wrap w-inline-block cpa_navbar_menu_btn"}`}>
+className={`w-element ${"button-wrap w-inline-block cpa_navbar_menu_btn"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"REGISTER NOW"}
@@ -165,12 +165,12 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c75fxaq c1ijzp3p ${"cpa_navbar_btn-wrap"}`}>
+className={`w-element ${"cpa_navbar_btn-wrap"}`}>
 <a
 href={"#apply"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc cmh603w cu73m4q c1xn1ugd ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c1tbtc05 c1kuwk32 ck80r54 c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c1m80p2u crld1xj ciwacd0 cwek1tm ${"button"}`}>
+className={`w-element ${"button"}`}>
 <div
 className={`w-element`}>
 {"REGISTER NOW"}
@@ -179,9 +179,9 @@ className={`w-element`}>
 </a>
 </div>
 <div
-className={`w-element cmh603w c1vy91sm ccsp7fv crp7fjt csld4j0 ${"cpa_navbar_menu-trigger"}`}>
+className={`w-element ${"cpa_navbar_menu-trigger"}`}>
 <div
-className={`w-element c1svrc9o c1capo46 cg86szb c13dg8zr cc7k8p0 c1ap3zbi c1hslvci c3ubsk9 ${"cpa_navbar_menu-trigger_label"}`}>
+className={`w-element ${"cpa_navbar_menu-trigger_label"}`}>
 {"MENU"}
 </div>
 </div>
@@ -192,33 +192,33 @@ className={`w-element c1svrc9o c1capo46 cg86szb c13dg8zr cc7k8p0 c1ap3zbi c1hslv
 </nav>
 <section
 id={"hero"}
-className={`w-element c1ie99sc ${"cpa_hero"}`}>
+className={`w-element ${"cpa_hero"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c15qeke9 c2y6fjl cdfqu8g c6ru6q0 c1wijxeh cwqsbw c1wi3wzs c1vtrtst cnikyp9 ccwjzqv cfko4c5 cmcjy5s c187uerx c56s163 c1va3hnz cezqez3 c1sd137f c1tg8mxy c1nkc5xz c169rbwe ${"cpa_hero_main"}`}>
+className={`w-element ${"cpa_hero_main"}`}>
 <div
-className={`w-element c8d04es ccwjzqv c1svrc9o chq3ky0 cfe1vus c149hts6 csuuk33 c1j20a7e cc7k8p0 c1ou5bby c7xx1s3 cubhqip cr5vxx5 c1fojb1i ${"cpa_hero_content"}`}>
+className={`w-element ${"cpa_hero_content"}`}>
 <div
-className={`w-element c1agj5vr c1b7j5ya c1chu7bs c18qd29s c43eehi cvj7wjk c1gkpfk9 ${"cpa_hero_subtitle"}`}>
+className={`w-element ${"cpa_hero_subtitle"}`}>
 {"New CI/CD Platform Supports New Startups"}
 </div>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <h1
-className={`w-element c13i00t cvd9qfr cet7x00 c1um4v3y ck07vqj cez4jgv c2jt8hd czdnhsw ${"cpa_hero_title"}`}>
+className={`w-element ${"cpa_hero_title"}`}>
 {"Up to $1 Million in Support!"}
 </h1>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g cv0uui2 c6fca7a c1v8ff5v c5g9k3b c1b7qqpo c1y39kfe c7xx1rg c1jbh7w8 ccwjzqv cfko4c5 cmcjy5s cz579ng ${"cpa_hero_highlight"}`}>
+className={`w-element ${"cpa_hero_highlight"}`}>
 <div
-className={`w-element c8d04es c1le6v90 c1e7vj8g c7q667e c6fca7a c1v8ff5v c5g9k3b c1b7qqpo c1y39kfe c7xx1rg ch73i66 cndrtrt c1d5da0p c1tlh46y cdzvqh6 ccwjzqv c1t7kko7 c1ulbj5j c1ngc8mk cpuhn16 c2exrjn c1qiey0w cb2dvav ccx8w9t ${"cpa_hero_highlight_content"}`}>
+className={`w-element ${"cpa_hero_highlight_content"}`}>
 <div
-className={`w-element c1xeu4lt c1lmt071 c1noxpoj ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1r2ofne c11j62p8 c1tf8zie c1dmj322 c1t4fold c10ztb15 ce17mxc cv7k4t c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_hero_highlight_ic w-embed"}`}>
+className={`w-element ${"cpa_hero_highlight_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -253,18 +253,18 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c1noxpoj c3bspns c18ghmj7 c1b7j5ya c8g4rbm c18qd29s cvj7wjk ${"cpa_hero_highlight_text"}`}>
+className={`w-element ${"cpa_hero_highlight_text"}`}>
 {"18 MONTHS FREE SUBSCRIPTION"}
 </div>
 </div>
 <div
-className={`w-element cof4nxl c1kuwk32 c4gouwl c1ilrpex cds5ulr cjfjc1q cxnec9k caoid09 c1p54kz7 cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t ctp2fz2 c4s3jf c1tfz2nu c1isl1ly ${"cpa_hero_highlight_lightning"}`} />
+className={`w-element ${"cpa_hero_highlight_lightning"}`} />
 </div>
 </div>
 <div
-className={`w-element c1y39kfe c7xx1rg c1sxiycd cdzvqh6 c1ilrpex cds5ulr c1rfbdao cxnec9k caoid09 c187uerx c56s163 c1fxf2qs crugq0o c15z4me5 c12gnh9b c1nrgqzb c1ggozrk c1sd137f c1tg8mxy cvz82l9 c1qx1hjk cl4x9pa c7jdf9i cxy7r1n c1ofs5db ${"cpa_hero_bg-wrap"}`}>
+className={`w-element ${"cpa_hero_bg-wrap"}`}>
 <div
-className={`w-element c1hqea92 c1wjt81d c1w0yz8n ck80r54 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly cgdkt0f cu0rxmm c1a6avdk c7c218r crwoak8 cpspkms cw0k7t1 cfficd2 c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_hero_bg w-embed"}`}>
+className={`w-element ${"cpa_hero_bg w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -281,7 +281,7 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c136fmy c1ilrpex cds5ulr c1771wej c15keb5f c19u1i0f c1rhwrbf csuuk33 c19bjlry c14av54f c1tgn0qk c1j20a7e c1yofgyr c1sxnnl5 crugq0o c15z4me5 c12gnh9b c1mu0one c13negkv cr5vxx5 cu3keg7 cnag396 c10nffi4 c1fojb1i c1k0gcvl c1w4nqtb c1qx1hjk cl4x9pa c7jdf9i cba1jyl ${"cpa_hero_animation"}`}>
+className={`w-element ${"cpa_hero_animation"}`}>
 <div
 data-rive-url={"https://cdn.prod.website-files.com/6757f377cc48557b0ef646bd/67a3074f472ef0837a0691f1_TurtleCI%20Campaign%20Hero%20Animation.riv"}
 data-rive-artboard={"Artboard"}
@@ -291,7 +291,7 @@ data-rive-automatically-handle-events={"false"}
 data-rive-fit={"contain"}
 data-rive-alignment={"center"}
 data-animation-type={"rive"}
-className={`w-element c1kuwk32 c4gouwl cgdkt0f cu0rxmm c1a6avdk c186ffp2 crwoak8 cpspkms cw0k7t1 c1f2bs6w ${"cpa_hero_rive"}`}>
+className={`w-element ${"cpa_hero_rive"}`}>
 <canvas
 className={`w-element c4gouwl c1kuwk32`} />
 </div>
@@ -301,15 +301,15 @@ className={`w-element c4gouwl c1kuwk32`} />
 </div>
 </section>
 <section
-className={`w-element c14fwb78 c1ie99sc ${"cpa_about"}`}>
+className={`w-element ${"cpa_about"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element clue8m c1ms6g6o c13lcbtl c7xx1rg cdzvqh6 czwjesa c12oouua c1svrc9o chq3ky0 cfe1vus cat6qrd c10bep2g cc7k8p0 c1ou5bby c7xx1s3 ${"cpa_about_flex-wrap"}`}>
+className={`w-element ${"cpa_about_flex-wrap"}`}>
 <h2
-className={`w-element c8g4rbm c1a91cgv cdznpsm c1kkah6p ${"text-weight-semibold is-cpa-about"}`}>
+className={`w-element ${"text-weight-semibold is-cpa-about"}`}>
 <span
 className={`w-element`}>
 {"Hello!"}
@@ -321,7 +321,7 @@ className={`w-element`}>
 {"We Are "}
 </span>
 <span
-className={`w-element c1noxpoj c18ghmj7 ${"text-color-brand"}`}>
+className={`w-element ${"text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 </h2>
@@ -347,33 +347,33 @@ className={`w-element`}>
 <section
 id={"campaign"}
 opacity-entry={"true"}
-className={`w-element cwqsbw c1vtrtst ${"cpa_details"}`}>
+className={`w-element ${"cpa_details"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <h2
-className={`w-element cte2vf8 c8g4rbm cnsje4e c1fs6dqh c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-semibold text-align-center"}`}>
+className={`w-element ${"heading-style-h4 text-weight-semibold text-align-center"}`}>
 {"That’s Why We Created This Campaign"}
 </h2>
 <h2
-className={`w-element c8g4rbm c1fs6dqh ${"text-weight-semibold text-align-center"}`}>
+className={`w-element ${"text-weight-semibold text-align-center"}`}>
 {"Code to Scale: "}
 <span
-className={`w-element cvd9qfr ${"text-color-yellow"}`}>
+className={`w-element ${"text-color-yellow"}`}>
 {"$1M Startup Support Event"}
 </span>
 </h2>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g c1jkbzro czrt1di c13qfgf c10rtf3d c168g7wn c1ml4qhu ${"cpa_details_grid"}`}>
+className={`w-element ${"cpa_details_grid"}`}>
 <div
-className={`w-element c1fs6dqh carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 c14fwb78 cndrtrt c1ie99sc c1tlh46y cdzvqh6 c1hi5fbc ce6kj4 cfe1vus c11eop2k c1xg2mm cytteay cezqez3 c1gk8fjd c1va3hnz ce9gx9a c7xx1s3 cf1fbqu cr3sus csrkwa2 c169rbwe cjlzfqh c1nkc5xz ${"cpa_details_box"}`}>
+className={`w-element ${"cpa_details_box"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g cbplqux c1qu1cb1 c1y39kfe c7xx1rg cx9dked cdzvqh6 c4ak5if c1coga6h ce6kj4 cfe1vus c1cbjd2o c9zpt8h c56s163 c1selrgo c1wd2yga c1mujqkf c11eop2k c1xg2mm c1817s9f c3apr0e c1wrvlix c1aoddrq ce9gx9a c7xx1s3 c10iegm chw4we2 c1tg8mxy c1jk73wb c72h4va c1hborwc cf1fbqu cr3sus cgyp09m c10p036a cxrxot9 ${"cpa_details_box_top"}`}>
+className={`w-element ${"cpa_details_box_top"}`}>
 <div
-className={`w-element c1xeu4lt c1lmt071 c14ikxcr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_details_box_ic w-embed"}`}>
+className={`w-element ${"cpa_details_box_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -402,24 +402,24 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 c8g4rbm cnsje4e c3bspns c43eehi c1gkpfk9 ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
+className={`w-element ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
 {"Eligibility"}
 </h3>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw c1g7apm c1qvc3d3 cdzvqh6 c1hqv6so c187uerx c1wytze2 c14pb92a c1epobsd c1sd137f c1edlru5 cb330ls ${"cpa_details_box_bottom"}`}>
+className={`w-element ${"cpa_details_box_bottom"}`}>
 <div
-className={`w-element cte2vf8 cn9ibz0 ${"cpa_details_box_text text-weight-bold"}`}>
+className={`w-element ${"cpa_details_box_text text-weight-bold"}`}>
 {"Early Startups Teams"}
 </div>
 </div>
 </div>
 <div
-className={`w-element c1fs6dqh carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 c14fwb78 cndrtrt c1ie99sc c1tlh46y cdzvqh6 c1hi5fbc ce6kj4 cfe1vus c11eop2k c1xg2mm cytteay cezqez3 c1gk8fjd c1va3hnz ce9gx9a c7xx1s3 cf1fbqu cr3sus csrkwa2 c169rbwe cjlzfqh c1nkc5xz ${"cpa_details_box"}`}>
+className={`w-element ${"cpa_details_box"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g cbplqux c1qu1cb1 c1y39kfe c7xx1rg cx9dked cdzvqh6 c4ak5if c1coga6h ce6kj4 cfe1vus c1cbjd2o c9zpt8h c56s163 c1selrgo c1wd2yga c1mujqkf c11eop2k c1xg2mm c1817s9f c3apr0e c1wrvlix c1aoddrq ce9gx9a c7xx1s3 c10iegm chw4we2 c1tg8mxy c1jk73wb c72h4va c1hborwc cf1fbqu cr3sus cgyp09m c10p036a cxrxot9 ${"cpa_details_box_top"}`}>
+className={`w-element ${"cpa_details_box_top"}`}>
 <div
-className={`w-element c1xeu4lt c1lmt071 c14ikxcr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_details_box_ic w-embed"}`}>
+className={`w-element ${"cpa_details_box_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -434,32 +434,32 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 c8g4rbm cnsje4e c3bspns c43eehi c1gkpfk9 ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
+className={`w-element ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
 {"Free Subscription"}
 </h3>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw c1g7apm c1qvc3d3 cdzvqh6 c1hqv6so c187uerx c1wytze2 c14pb92a c1epobsd c1sd137f c1edlru5 cb330ls ${"cpa_details_box_bottom"}`}>
+className={`w-element ${"cpa_details_box_bottom"}`}>
 <div
-className={`w-element cte2vf8 ${"cpa_details_box_text"}`}>
+className={`w-element ${"cpa_details_box_text"}`}>
 {"Total Value: "}
 <span
-className={`w-element cn9ibz0 ${"text-weight-bold"}`}>
+className={`w-element ${"text-weight-bold"}`}>
 {"$3,294/startup"}
 </span>
 </div>
 <div
-className={`w-element cvdimgi c6s7woo c1qpv6k ${"text-size-sm"}`}>
+className={`w-element ${"text-size-sm"}`}>
 {"( $183/month for 18 months )"}
 </div>
 </div>
 </div>
 <div
-className={`w-element c1fs6dqh carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 c14fwb78 cndrtrt c1ie99sc c1tlh46y cdzvqh6 c1hi5fbc ce6kj4 cfe1vus c11eop2k c1xg2mm cytteay cezqez3 c1gk8fjd c1va3hnz ce9gx9a c7xx1s3 cf1fbqu cr3sus csrkwa2 c169rbwe cjlzfqh c1nkc5xz ${"cpa_details_box"}`}>
+className={`w-element ${"cpa_details_box"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g cbplqux c1qu1cb1 c1y39kfe c7xx1rg cx9dked cdzvqh6 c4ak5if c1coga6h ce6kj4 cfe1vus c1cbjd2o c9zpt8h c56s163 c1selrgo c1wd2yga c1mujqkf c11eop2k c1xg2mm c1817s9f c3apr0e c1wrvlix c1aoddrq ce9gx9a c7xx1s3 c10iegm chw4we2 c1tg8mxy c1jk73wb c72h4va c1hborwc cf1fbqu cr3sus cgyp09m c10p036a cxrxot9 ${"cpa_details_box_top"}`}>
+className={`w-element ${"cpa_details_box_top"}`}>
 <div
-className={`w-element c1xeu4lt c1lmt071 c14ikxcr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_details_box_ic w-embed"}`}>
+className={`w-element ${"cpa_details_box_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -491,22 +491,22 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 c8g4rbm cnsje4e c3bspns c43eehi c1gkpfk9 ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
+className={`w-element ${"heading-style-h4 text-style-allcaps text-weight-semibold"}`}>
 {"Registering Timeline"}
 </h3>
 </div>
 <div
-className={`w-element cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw c1g7apm c1qvc3d3 cdzvqh6 c1hqv6so c187uerx c1wytze2 c14pb92a c1epobsd c1sd137f c1edlru5 cb330ls ${"cpa_details_box_bottom"}`}>
+className={`w-element ${"cpa_details_box_bottom"}`}>
 <div
 className={`w-element`}>
 {"From "}
 <span
-className={`w-element cte2vf8 cn9ibz0 ${"cpa_details_box_text text-weight-bold"}`}>
+className={`w-element ${"cpa_details_box_text text-weight-bold"}`}>
 {"January"}
 </span>
 {" to "}
 <span
-className={`w-element cte2vf8 cn9ibz0 ${"cpa_details_box_text text-weight-bold"}`}>
+className={`w-element ${"cpa_details_box_text text-weight-bold"}`}>
 {"April/May 2025"}
 </span>
 </div>
@@ -514,11 +514,11 @@ className={`w-element cte2vf8 cn9ibz0 ${"cpa_details_box_text text-weight-bold"}
 </div>
 <div
 id={"w-node-_70fa2271-aa4e-0922-9513-cc195e56895d-e97e7802"}
-className={`w-element cm8azr1 c176ublo c15nbh89 c6fca7a c1v8ff5v c5g9k3b c1b7qqpo c13lcbtl c7xx1rg cdzvqh6 cz3bf02 c1d9yfo1 cnpfpql cf95c9v c11eop2k c1xg2mm c1smjrpr csby888 cqd193u c4idmi5 cf1fbqu cr3sus c13wea9x ${"cpa_details_cta-box"}`}>
+className={`w-element ${"cpa_details_cta-box"}`}>
 <div
-className={`w-element c1tj7br1 ${"cpa_details_cta-box_text-wrap"}`}>
+className={`w-element ${"cpa_details_cta-box_text-wrap"}`}>
 <p
-className={`w-element c20zflo ck80r54 ${"text-size-lg text-color-alternate"}`}>
+className={`w-element ${"text-size-lg text-color-alternate"}`}>
 <span
 className={`w-element`}>
 {"By removing financial and technical barriers, we aim to help you focus on what matters most – innovating and scaling your ideas."}
@@ -528,16 +528,16 @@ className={`w-element`} />
 <br
 className={`w-element`} />
 <span
-className={`w-element cn9ibz0 cticrez ${"text-weight-bold text-style-italic"}`}>
+className={`w-element ${"text-weight-bold text-style-italic"}`}>
 {"Join us and take the first step toward building the future!"}
 </span>
 </p>
 </div>
 <a
 href={"#apply"}
-className={`w-element c428y35 c1tpxml8 c1apmtg4 cwqrurh c37cgwq c1p16x0l c1a91cgv cdznpsm c1kkah6p c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c1jyc72b cdquffd c5nnka2 cag1f6 cimea03 cmh603w ckwuexc crld1xj ccfi1nz c1xn1ugd ${"cpa_details_cta-box_btn w-inline-block"}`}>
+className={`w-element ${"cpa_details_cta-box_btn w-inline-block"}`}>
 <div
-className={`w-element cn9ibz0 c3bspns ${"text-weight-bold text-style-allcaps"}`}>
+className={`w-element ${"text-weight-bold text-style-allcaps"}`}>
 {"Join the program"}
 </div>
 </a>
@@ -548,28 +548,28 @@ className={`w-element cn9ibz0 c3bspns ${"text-weight-bold text-style-allcaps"}`}
 </section>
 <section
 opacity-entry={"true"}
-className={`w-element cwqsbw cy4qr4q ccwjzqv ${"cpa_values"}`}>
+className={`w-element ${"cpa_values"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c8d04es ccwjzqv c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global z-index-1"}`}>
+className={`w-element ${"padding-global z-index-1"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element clue8m c1ms6g6o c1viuxvl c9bgjuu c13qfgf c10rtf3d cu8axpx c114xu6n c168g7wn clqhs5g cul534n c1ml4qhu ${"cpa_values_grid"}`}>
+className={`w-element ${"cpa_values_grid"}`}>
 <div
 id={"w-node-_12bb7aac-91dd-9198-7f36-73f680088354-e97e7802"}
-className={`w-element c14fwb78 c1ie99sc c1svrc9o c9zpt8h cc7k8p0 chw4we2 ${"cpa_values_content"}`}>
+className={`w-element ${"cpa_values_content"}`}>
 <h2
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"What Our Sponsorship Can Do For You"}
 </h2>
 <div
-className={`w-element c1kuwk32 czdwwj2 cr95nb3 c66efv8 c733ecn chc368u ${"spacer-56px is-cpa-values"}`} />
+className={`w-element ${"spacer-56px is-cpa-values"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g cbplqux c1qu1cb1 cdzvqh6 c149hts6 csuuk33 cubhqip cr5vxx5 ${"cpa_values_list"}`}>
+className={`w-element ${"cpa_values_list"}`}>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 c1ngc8mk cpuhn16 cb2dvav ccx8w9t ${"cpa_values_item"}`}>
+className={`w-element ${"cpa_values_item"}`}>
 <div
-className={`w-element c370mb2 c1ul5uo8 c1noxpoj ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wpwirj cozctnf c1oca33h c1hgigzu c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_values_ic w-embed"}`}>
+className={`w-element ${"cpa_values_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -594,14 +594,14 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c20zflo c8g4rbm c1ajwld3 c3bspns c1iver4f c1wmi6tm ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
 {"Flexible Sponsorship Packages"}
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 c1ngc8mk cpuhn16 cb2dvav ccx8w9t ${"cpa_values_item"}`}>
+className={`w-element ${"cpa_values_item"}`}>
 <div
-className={`w-element c370mb2 c1ul5uo8 c1noxpoj ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wpwirj cozctnf c1oca33h c1hgigzu c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_values_ic w-embed"}`}>
+className={`w-element ${"cpa_values_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -626,14 +626,14 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c20zflo c8g4rbm c1ajwld3 c3bspns c1iver4f c1wmi6tm ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
 {"Dedicated support"}
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 c1ngc8mk cpuhn16 cb2dvav ccx8w9t ${"cpa_values_item"}`}>
+className={`w-element ${"cpa_values_item"}`}>
 <div
-className={`w-element c370mb2 c1ul5uo8 c1noxpoj ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wpwirj cozctnf c1oca33h c1hgigzu c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_values_ic w-embed"}`}>
+className={`w-element ${"cpa_values_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -648,34 +648,34 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c20zflo c8g4rbm c1ajwld3 c3bspns c1iver4f c1wmi6tm ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"heading-style-h5 text-weight-semibold text-style-allcaps"}`}>
 {"Join a Vibrant Developer Community"}
 </div>
 </div>
 </div>
 </div>
 <div
-className={`w-element c1xirpce carupg6 cazdpea c1g67dw5 c74orcy c1g7apm c7xx1rg cdzvqh6 cfko4c5 cmcjy5s c14u2f0p c1msgjcw ${"cpa_values_img-wrap"}`}>
+className={`w-element ${"cpa_values_img-wrap"}`}>
 <Image
 src={"/turtleci-import/images/1Mil-campaign-img-1_1.avif"}
 loading={"lazy"}
 width={70}
 alt={"Our Sponsorship can help Startups"}
-className={`w-image cckc7l3 c5c7vsx c1sqjap8 crsq7ew ${"cpa_values_img"}`} />
+className={`w-image ${"cpa_values_img"}`} />
 </div>
 </div>
 <div
-className={`w-element cwqsbw ca7ovlo ${"spacer-80px"}`} />
+className={`w-element ${"spacer-80px"}`} />
 <div
-className={`w-element c1fs6dqh cci2jum carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 c1y39kfe c7xx1rg cd86zl1 ctx8ibw c14jek5s c1qvc3d3 c1kuo939 cx9dked c1sxiycd cdzvqh6 c5rxag3 c6lrzl9 c10f74nw coox8kb c14en6jp c19kcl71 crrhkmv c1g9ws2e ${"cpa_values_cta"}`}>
+className={`w-element ${"cpa_values_cta"}`}>
 <p
-className={`w-element c20zflo cmt6d78 c1ajwld3 c1iver4f c1wmi6tm ${"heading-style-h5 text-weight-normal"}`}>
+className={`w-element ${"heading-style-h5 text-weight-normal"}`}>
 <span
 className={`w-element`}>
 {"With full capability of the highest price "}
 </span>
 <span
-className={`w-element cn9ibz0 ${"text-weight-bold"}`}>
+className={`w-element ${"text-weight-bold"}`}>
 {"$183/month"}
 </span>
 <span
@@ -683,26 +683,26 @@ className={`w-element`}>
 {" for "}
 </span>
 <span
-className={`w-element cn9ibz0 ${"text-weight-bold"}`}>
+className={`w-element ${"text-weight-bold"}`}>
 {"18 months"}
 </span>
 <br
 className={`w-element`} />
 </p>
 <div
-className={`w-element c1kuwk32 cejdlg0 ca7ovlo ${"spacer-8px"}`} />
+className={`w-element ${"spacer-8px"}`} />
 <div
-className={`w-element c1b7j5ya cn9ibz0 cnsje4e c1noxpoj c18ghmj7 c18m5w71 c1szfbvc ${"heading-style-h3 text-color-brand"}`}>
+className={`w-element ${"heading-style-h3 text-color-brand"}`}>
 {"You truly have nothing to lose."}
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <a
 href={"https://www.turtleci.io/"}
 target={"_blank"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc cmh603w cu73m4q c1xn1ugd ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c428y35 c1kuwk32 c14ikxcr c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 csemwku c1sg3im2 crld1xj ccfi1nz c1juhpdv cwek1tm ${"button-outline"}`}>
+className={`w-element ${"button-outline"}`}>
 <div
 className={`w-element`}>
 {"LEARN MORE ABOUT TURTLECI"}
@@ -713,41 +713,41 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cyf0c4o c1ilrpex cds5ulr cjfjc1q cxnec9k caoid09 ${"cpa_values_bg"}`} />
+className={`w-element ${"cpa_values_bg"}`} />
 </section>
 <section
 id={"features"}
 opacity-entry={"true"}
-className={`w-element c1jwyp7v c1ie99sc ${"cpa_wycd"}`}>
+className={`w-element ${"cpa_wycd"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1fs6dqh c1o28xnq ctx8ibw c14jek5s ${"cpa_wycd_header"}`}>
+className={`w-element ${"cpa_wycd_header"}`}>
 <h2
 className={`w-element`}>
 {"What you can do with "}
 <span
-className={`w-element c1noxpoj c18ghmj7 ${"text-color-brand"}`}>
+className={`w-element ${"text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 </h2>
 <div
-className={`w-element c1qvc3d3 ca7ovlo ${"spacer-24px"}`} />
+className={`w-element ${"spacer-24px"}`} />
 <p
 className={`w-element`}>
 {"Streamline your CI/CD pipeline from code to deployment with ease and precision."}
 </p>
 </div>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g c1jkbzro c9bgjuu c13qfgf c10rtf3d c13z7luj cx7q1ul ${"cpa_wycd_grid"}`}>
+className={`w-element ${"cpa_wycd_grid"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g c6fca7a c1v8ff5v c5g9k3b c1b7qqpo cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_wycd_item"}`}>
+className={`w-element ${"cpa_wycd_item"}`}>
 <div
-className={`w-element c11toct7 ca418g0 cvd9qfr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_wycd_ic w-embed"}`}>
+className={`w-element ${"cpa_wycd_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -779,12 +779,12 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 cn9ibz0 cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-color-brand"}`}>
 {"Codify"}
 </h3>
 <ul
 role={"list"}
-className={`w-element c1tlh46y ${"cpa_wycd_list"}`}>
+className={`w-element ${"cpa_wycd_list"}`}>
 <li
 className={`w-element`}>
 {"Integration flows as code."}
@@ -804,9 +804,9 @@ className={`w-element`}>
 </ul>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g c6fca7a c1v8ff5v c5g9k3b c1b7qqpo cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_wycd_item"}`}>
+className={`w-element ${"cpa_wycd_item"}`}>
 <div
-className={`w-element c11toct7 ca418g0 cvd9qfr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_wycd_ic w-embed"}`}>
+className={`w-element ${"cpa_wycd_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -880,12 +880,12 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 cn9ibz0 cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-color-brand"}`}>
 {"Multi-OS Support"}
 </h3>
 <ul
 role={"list"}
-className={`w-element c1tlh46y ${"cpa_wycd_list"}`}>
+className={`w-element ${"cpa_wycd_list"}`}>
 <li
 className={`w-element`}>
 {"Dedicated environments for MacOS (Sierra, High Sierra, Ventura) and Ubuntu 22.04, with more to come."}
@@ -897,9 +897,9 @@ className={`w-element`}>
 </ul>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g c6fca7a c1v8ff5v c5g9k3b c1b7qqpo cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_wycd_item"}`}>
+className={`w-element ${"cpa_wycd_item"}`}>
 <div
-className={`w-element c11toct7 ca418g0 cvd9qfr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_wycd_ic w-embed"}`}>
+className={`w-element ${"cpa_wycd_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -917,7 +917,7 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 cn9ibz0 cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-color-brand"}`}>
 {"Multi-Framework Compatibility"}
 </h3>
 <p
@@ -926,9 +926,9 @@ className={`w-element`}>
 </p>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g c6fca7a c1v8ff5v c5g9k3b c1b7qqpo cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_wycd_item"}`}>
+className={`w-element ${"cpa_wycd_item"}`}>
 <div
-className={`w-element c11toct7 ca418g0 cvd9qfr ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_wycd_ic w-embed"}`}>
+className={`w-element ${"cpa_wycd_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -947,7 +947,7 @@ className={`w-element`} />
 </svg>
 </div>
 <h3
-className={`w-element cte2vf8 cn9ibz0 cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-color-brand"}`}>
 {"Advanced Logging"}
 </h3>
 <p
@@ -961,77 +961,77 @@ className={`w-element`}>
 </section>
 <section
 opacity-entry={"true"}
-className={`w-element c14fwb78 c1ie99sc ${"cpa_metrics"}`}>
+className={`w-element ${"cpa_metrics"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cum4mnn ck80r54 c6fca7a c1v8ff5v c5g9k3b c1b7qqpo c1viuxvl czrt1di c13qfgf c10rtf3d ccwjzqv cfko4c5 cmcjy5s c14fh8ap crla0h8 c1bmrrs2 c17tx2n0 cxjxpo5 c1yruke9 c6x222 ${"cpa_metrics_main"}`}>
+className={`w-element ${"cpa_metrics_main"}`}>
 <div
-className={`w-element c8d04es c13dsrcw cvv99b2 cbplqux c1qu1cb1 c1y39kfe c7xx1rg cdzvqh6 ccwjzqv ${"cpa_metrics_item"}`}>
+className={`w-element ${"cpa_metrics_item"}`}>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"cpa_metrics_number-wrap"}`}>
+className={`w-element ${"cpa_metrics_number-wrap"}`}>
 <div
 metric-animate-step={"5"}
 metric-animate={"true"}
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"99.9"}
 </div>
 <div
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"%"}
 </div>
 </div>
 <div
-className={`w-element c20zflo cn9ibz0 c3bspns ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
+className={`w-element ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
 {"Uptime"}
 </div>
 </div>
 <div
-className={`w-element c8d04es c13dsrcw cvv99b2 cbplqux c1qu1cb1 c1y39kfe c7xx1rg cdzvqh6 ccwjzqv ${"cpa_metrics_item"}`}>
+className={`w-element ${"cpa_metrics_item"}`}>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"cpa_metrics_number-wrap"}`}>
+className={`w-element ${"cpa_metrics_number-wrap"}`}>
 <div
 metric-animate-step={"5"}
 metric-animate={"true"}
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"80"}
 </div>
 <div
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"%"}
 </div>
 </div>
 <div
-className={`w-element c20zflo cn9ibz0 c3bspns ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
+className={`w-element ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
 {"Faster Builds"}
 </div>
 </div>
 <div
-className={`w-element c8d04es c13dsrcw cvv99b2 cbplqux c1qu1cb1 c1y39kfe c7xx1rg cdzvqh6 ccwjzqv ${"cpa_metrics_item"}`}>
+className={`w-element ${"cpa_metrics_item"}`}>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 ${"cpa_metrics_number-wrap"}`}>
+className={`w-element ${"cpa_metrics_number-wrap"}`}>
 <div
 metric-animate-step={"1"}
 metric-animate={"true"}
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"15"}
 </div>
 <div
-className={`w-element cjxjibi c8g4rbm c1e5610 c1qi0km1 ${"cpa_metrics_number text-weight-semibold"}`}>
+className={`w-element ${"cpa_metrics_number text-weight-semibold"}`}>
 {"K+"}
 </div>
 </div>
 <div
-className={`w-element c20zflo cn9ibz0 c3bspns ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
+className={`w-element ${"text-size-lg text-weight-bold text-style-allcaps"}`}>
 {"U sers"}
 </div>
 </div>
 <div
-className={`w-element co29il6 c1g7apm c7xx1rg cdzvqh6 c1ilrpex cds5ulr cjfjc1q cxnec9k caoid09 c5hmduz ${"cpa_metrics_bg-wrap"}`}>
+className={`w-element ${"cpa_metrics_bg-wrap"}`}>
 <div
-className={`w-element c14dp2e1 c1g3jzk2 c1iel4hw c1w0yz8n cdzvqh6 cd2mmkj ca9u31z ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly crmqu4e cmpsox c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_metrics_bg w-embed"}`}>
+className={`w-element ${"cpa_metrics_bg w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 viewBox={"0 0 1360 1360"}
@@ -1111,41 +1111,41 @@ className={`w-element`} />
 <section
 id={"reason"}
 opacity-entry={"true"}
-className={`w-element c14fwb78 cy4qr4q ${"cpa_why"}`}>
+className={`w-element ${"cpa_why"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cm8azr1 c176ublo c1viuxvl c9bgjuu c13qfgf c10rtf3d c168g7wn c1ml4qhu ${"cpa_why_grid"}`}>
+className={`w-element ${"cpa_why_grid"}`}>
 <div
-className={`w-element c1xirpce carupg6 cazdpea c1g67dw5 c74orcy c1g7apm c7xx1rg cdzvqh6 cfko4c5 cmcjy5s c14u2f0p c1msgjcw ${"cpa_why_img-wrap"}`}>
+className={`w-element ${"cpa_why_img-wrap"}`}>
 <Image
 src={"/turtleci-import/images/1Mil-campaign-img-2_1.avif"}
 loading={"lazy"}
 width={70}
 alt={"Startups choose TurtleCI for its various values"}
-className={`w-image cckc7l3 c5z8l3h ccwjfpv cm96mtf ${"cpa_why_img"}`} />
+className={`w-image ${"cpa_why_img"}`} />
 </div>
 <div
 id={"w-node-_54bc519d-9f2d-3514-5759-2f61a5f2a8a5-e97e7802"}
-className={`w-element c14fwb78 c1ie99sc c1svrc9o cc7k8p0 ${"cpa_why_content"}`}>
+className={`w-element ${"cpa_why_content"}`}>
 <h2
-className={`w-element c8g4rbm c6s7woo cxgq9es ${"text-wrap-balance text-weight-semibold"}`}>
+className={`w-element ${"text-wrap-balance text-weight-semibold"}`}>
 {"Why Startups Choose "}
 <span
-className={`w-element c1noxpoj c18ghmj7 ${"text-color-brand"}`}>
+className={`w-element ${"text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 </h2>
 <div
-className={`w-element c1kuwk32 c58vwce cgz2jcg c139r9rg c1toovlm c8o4rha ${"spacer-48px"}`} />
+className={`w-element ${"spacer-48px"}`} />
 <div
-className={`w-element c1s0k8lp c1irosg5 cbplqux c1qu1cb1 cdzvqh6 ${"cpa_why_list"}`}>
+className={`w-element ${"cpa_why_list"}`}>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c10je7ri cdzvqh6 chq3ky0 cfe1vus c149hts6 csuuk33 c1ou5bby c7xx1s3 cubhqip cr5vxx5 ${"cpa_why_item"}`}>
+className={`w-element ${"cpa_why_item"}`}>
 <div
-className={`w-element cd66rhb ckq8af1 c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_why_item_ic w-embed"}`}>
+className={`w-element ${"cpa_why_item_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1169,9 +1169,9 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c13dsrcw cvv99b2 cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw cdzvqh6 ${"cpa_why_item_content"}`}>
+className={`w-element ${"cpa_why_item_content"}`}>
 <h3
-className={`w-element c14pm6dm c8g4rbm c3bspns ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
 {"Solve Resource Limitations"}
 </h3>
 <p
@@ -1181,9 +1181,9 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c10je7ri cdzvqh6 chq3ky0 cfe1vus c149hts6 csuuk33 c1ou5bby c7xx1s3 cubhqip cr5vxx5 ${"cpa_why_item"}`}>
+className={`w-element ${"cpa_why_item"}`}>
 <div
-className={`w-element cd66rhb ckq8af1 c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_why_item_ic w-embed"}`}>
+className={`w-element ${"cpa_why_item_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1207,9 +1207,9 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c13dsrcw cvv99b2 cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw cdzvqh6 ${"cpa_why_item_content"}`}>
+className={`w-element ${"cpa_why_item_content"}`}>
 <h3
-className={`w-element c14pm6dm c8g4rbm c3bspns ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
 {"Accelerate Time to Market"}
 </h3>
 <p
@@ -1219,9 +1219,9 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c10je7ri cdzvqh6 chq3ky0 cfe1vus c149hts6 csuuk33 c1ou5bby c7xx1s3 cubhqip cr5vxx5 ${"cpa_why_item"}`}>
+className={`w-element ${"cpa_why_item"}`}>
 <div
-className={`w-element cd66rhb ckq8af1 c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_why_item_ic w-embed"}`}>
+className={`w-element ${"cpa_why_item_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1245,9 +1245,9 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c13dsrcw cvv99b2 cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw cdzvqh6 ${"cpa_why_item_content"}`}>
+className={`w-element ${"cpa_why_item_content"}`}>
 <h3
-className={`w-element c14pm6dm c8g4rbm c3bspns ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
 {"Simplify Complex Workflows"}
 </h3>
 <p
@@ -1257,9 +1257,9 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c10je7ri cdzvqh6 chq3ky0 cfe1vus c149hts6 csuuk33 c1ou5bby c7xx1s3 cubhqip cr5vxx5 ${"cpa_why_item"}`}>
+className={`w-element ${"cpa_why_item"}`}>
 <div
-className={`w-element cd66rhb ckq8af1 c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_why_item_ic w-embed"}`}>
+className={`w-element ${"cpa_why_item_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1283,9 +1283,9 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c13dsrcw cvv99b2 cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw cdzvqh6 ${"cpa_why_item_content"}`}>
+className={`w-element ${"cpa_why_item_content"}`}>
 <h3
-className={`w-element c14pm6dm c8g4rbm c3bspns ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
 {"Enable Collaboration and Scalability"}
 </h3>
 <p
@@ -1295,9 +1295,9 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c10je7ri cdzvqh6 chq3ky0 cfe1vus c149hts6 csuuk33 c1ou5bby c7xx1s3 cubhqip cr5vxx5 ${"cpa_why_item"}`}>
+className={`w-element ${"cpa_why_item"}`}>
 <div
-className={`w-element cd66rhb ckq8af1 c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_why_item_ic w-embed"}`}>
+className={`w-element ${"cpa_why_item_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -1321,9 +1321,9 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c13dsrcw cvv99b2 cbplqux c1qu1cb1 covda95 c1mjz48u c1ea4sxw cdzvqh6 ${"cpa_why_item_content"}`}>
+className={`w-element ${"cpa_why_item_content"}`}>
 <h3
-className={`w-element c14pm6dm c8g4rbm c3bspns ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
+className={`w-element ${"text-size-md text-weight-semibold text-style-allcaps"}`}>
 {"Reduce Risks with All-In-One Solution"}
 </h3>
 <p
@@ -1334,13 +1334,13 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c1kuwk32 c58vwce cgz2jcg c139r9rg c1toovlm c8o4rha ${"spacer-48px"}`} />
+className={`w-element ${"spacer-48px"}`} />
 <a
 href={"https://www.turtleci.io/"}
 target={"_blank"}
-className={`w-element c1a91cgv cdznpsm c1kkah6p c1jbh7w8 c2w17zg cqm1fiw c1rkddb1 ckwuexc cmh603w cu73m4q c1xn1ugd ${"button-wrap w-inline-block"}`}>
+className={`w-element ${"button-wrap w-inline-block"}`}>
 <button
-className={`w-element c13dsrcw c428y35 c1kuwk32 c14ikxcr c1u0b96l c16wixva c1yjsk66 c1rrwas8 c1g7apm c7xx1rg c1yzoccs c14umb8c c1eka9gg crkjqv8 c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 csemwku c1sg3im2 crld1xj ccfi1nz c1juhpdv cwek1tm ${"button-outline"}`}>
+className={`w-element ${"button-outline"}`}>
 <div
 className={`w-element`}>
 {"SEE HOW WE HELP STARTUPS"}
@@ -1354,24 +1354,24 @@ className={`w-element`}>
 </section>
 <section
 id={"apply"}
-className={`w-element c1sb376y cwqsbw c1vtrtst ${"cpa_apply"}`}>
+className={`w-element ${"cpa_apply"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
 opacity-entry={"true"}
-className={`w-element c7q667e carupg6 cazdpea c1g67dw5 c74orcy cwqsbw c1kuo939 c1vtrtst c1sxiycd cqq5fes c3ro169 cezqez3 ckrcdps c1va3hnz c1jhhju3 c169rbwe c1858q5l c1nkc5xz ${"cpa_apply_main"}`}>
+className={`w-element ${"cpa_apply_main"}`}>
 <h2
-className={`w-element c8g4rbm c1fs6dqh ${"text-weight-semibold text-align-center"}`}>
+className={`w-element ${"text-weight-semibold text-align-center"}`}>
 {"Join the Program and get your Free Subscription"}
 </h2>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1viuxvl c9bgjuu c13qfgf c10rtf3d c168g7wn c1ml4qhu ${"cpa_apply_grid"}`}>
+className={`w-element ${"cpa_apply_grid"}`}>
 <div
-className={`w-element c1viq0dj c1kuo939 c1v7lzh4 c1qx9vin cxedn37 c1g948a1 cz23m1w cpkmgqt c1vjymjx cpg0w0n c1krxrp6 c1le6lzr ckf5n2u c2x8drr ${"cpa_apply_form-block w-form"}`}>
+className={`w-element ${"cpa_apply_form-block w-form"}`}>
 <form
 id={"wf-form-1M-Campaign-Application"}
 name={"wf-form-1M-Campaign-Application"}
@@ -1381,7 +1381,7 @@ data-wf-page-id={"67a1e10ab010e0ebe97e7802"}
 data-wf-element-id={"92c0b494-959b-6377-a300-e6c1a771c503"}
 className={`w-element ${"cpa_apply_form"}`}>
 <div
-className={`w-element c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly ${"w-embed"}`}>
+className={`w-element ${"w-embed"}`}>
 <div
 hidden={true}
 className={`w-element`}>
@@ -1393,25 +1393,25 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c1svrc9o cc7k8p0 ${"cpa_apply_step"}`}>
+className={`w-element ${"cpa_apply_step"}`}>
 <div
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Step 1."}
 </div>
 <div
-className={`w-element cte2vf8 c8g4rbm cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
 {"Fill Out this Form"}
 </div>
 </div>
 <div
-className={`w-element c1kuwk32 c14fwb78 ca7ovlo cqyyj0l c1sgfhaw ${"spacer-40px"}`} />
+className={`w-element ${"spacer-40px"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g cdzvqh6 cwd1fig c6167c6 chq3ky0 cfe1vus c15h812d c1n016qu c1ou5bby c7xx1s3 ${"form_row is-campaign"}`}>
+className={`w-element ${"form_row is-campaign"}`}>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"MMERGE"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Your Name"}
 </label>
 <Input
@@ -1422,13 +1422,13 @@ placeholder={"John Smith"}
 type={"text"}
 id={"MMERGE"}
 required={true}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"EMAIL-3"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Your Email"}
 </label>
 <Input
@@ -1439,16 +1439,16 @@ placeholder={"john@gmail.com"}
 type={"email"}
 id={"EMAIL-3"}
 required={true}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g cdzvqh6 cwd1fig c6167c6 chq3ky0 cfe1vus c15h812d c1n016qu c1ou5bby c7xx1s3 ${"form_row is-campaign"}`}>
+className={`w-element ${"form_row is-campaign"}`}>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"GITID"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"GitHub Organisation ID"}
 </label>
 <Input
@@ -1459,13 +1459,13 @@ placeholder={"62913829"}
 type={"text"}
 id={"GITID"}
 required={true}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"TEAMSIZE"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Your Team Size"}
 </label>
 <Select
@@ -1473,7 +1473,7 @@ id={"TEAMSIZE"}
 name={"TEAMSIZE"}
 data-name={"TEAMSIZE"}
 required={true}
-className={`w-element cm4kqbl c1hk3iai cqi8r21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te ce9b4sv c1xu9ni5 c17jqo6w c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe cajthak c2ye6xu c19ohx5n c1hi5fbc cn1m4mf c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 c1iiet6j ${"form_input is-select-input w-select"}`}>
+className={`w-element ${"form_input is-select-input w-select"}`}>
 <option
 value={""}
 className={`w-element`}>
@@ -1504,10 +1504,10 @@ className={`w-element`}>
 </div>
 <div
 id={"industry-other-wrap"}
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 cmh603w ${"form_field-wrap is-campaign is-industry-other"}`}>
+className={`w-element ${"form_field-wrap is-campaign is-industry-other"}`}>
 <label
 htmlFor={"Industry-Other"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Industry"}
 </label>
 <Input
@@ -1517,20 +1517,20 @@ data-name={"Industry (Other)"}
 placeholder={"Your industry"}
 type={"text"}
 id={"Industry-Other"}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"COUNTRY-3"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Your Country"}
 </label>
 <Select
 id={"COUNTRY-3"}
 name={"COUNTRY"}
 data-name={"COUNTRY"}
-className={`w-element cm4kqbl c1hk3iai cqi8r21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te ce9b4sv c1xu9ni5 c17jqo6w c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe cajthak c2ye6xu c19ohx5n c1hi5fbc cn1m4mf c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 c1iiet6j ${"form_input is-select-input w-select"}`}>
+className={`w-element ${"form_input is-select-input w-select"}`}>
 <option
 value={""}
 className={`w-element`}>
@@ -2509,10 +2509,10 @@ className={`w-element`}>
 </Select>
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"USAGE"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Planned CI/CD Usage (minutes)"}
 </label>
 <Input
@@ -2523,13 +2523,13 @@ placeholder={"Your expected build time per month"}
 type={"number"}
 id={"USAGE"}
 required={true}
-className={`w-element cm4kqbl c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input w-input"}`} />
+className={`w-element ${"form_input w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"PROBLEM"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"What CI/CI problems does your team usually meet?"}
 </label>
 <Textarea
@@ -2539,13 +2539,13 @@ maxLength={5000}
 data-name={"PROBLEM"}
 placeholder={"Your problems with CI/CD"}
 required={true}
-className={`w-element c1xvzwx9 c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input is-text-area is-campaign w-input"}`} />
+className={`w-element ${"form_input is-text-area is-campaign w-input"}`} />
 </div>
 <div
-className={`w-element covda95 c1mjz48u c1ea4sxw c2tlpf1 ${"form_field-wrap is-campaign"}`}>
+className={`w-element ${"form_field-wrap is-campaign"}`}>
 <label
 htmlFor={"FEATURE"}
-className={`w-element c18q8j3k cvdimgi c1chu7bs ${"form_label"}`}>
+className={`w-element ${"form_label"}`}>
 {"Which feature of TurtleCI do you expect most?"}
 </label>
 <Textarea
@@ -2555,29 +2555,29 @@ maxLength={5000}
 data-name={"FEATURE"}
 placeholder={"Your CI/CD needs"}
 required={true}
-className={`w-element c1xvzwx9 c1hk3iai c1fgdw21 c5c9eqz c1r7r9op cjge562 cklimrq cjps8te c71aqp4 c1xu9ni5 cye2xyr c13pgzpp cgz9fe1 cwfsyhm ck8x7n0 cfw1inn c11djwk1 ci007ia c1ro25gr c1kuwk32 c1i2dd9i c5fdr0g c1joexfe c1hi5fbc c5io6td c882zc0 cuvokq6 c1029fez c1e6md11 c1oi4tev c13ku895 c1ha0zq3 c1gpg3nf cogbpki c198in2q c1aw7qc6 cy35f9v cxkrb62 ${"form_input is-text-area is-campaign w-input"}`} />
+className={`w-element ${"form_input is-text-area is-campaign w-input"}`} />
 </div>
 <div
-className={`w-element c1g7apm c7xx1rg cdzvqh6 cgs2h5n c1fqtwf3 c1y42lgf c1o37h44 c1esg1pr ce7nui5 ${"campaign-recaptcha-wrap"}`}>
+className={`w-element ${"campaign-recaptcha-wrap"}`}>
 <div
 data-sitekey={"6LdaEawqAAAAAH8xtLeCjcyNnfHKlmlAgk5UtUV2"}
-className={`w-element c2tlpf1 c120mq95 c1og5opp c1xkeyc4 c1k6hcwn c1t31bm1 cnqacuw ${"w-form-formrecaptcha campaign-recaptcha g-recaptcha g-recaptcha-error g-recaptcha-disabled"}`} />
+className={`w-element ${"w-form-formrecaptcha campaign-recaptcha g-recaptcha g-recaptcha-error g-recaptcha-disabled"}`} />
 </div>
 <Input
 type={"submit"}
 data-wait={"Please wait..."}
 value={"Submit"}
-className={`w-element c13dsrcw cf159v7 c1kuwk32 c1qe1f6t czsxu8n c1nrdone c1f4f0w8 c1g8wfgh c1g7apm c7xx1rg cze2t9e ct0i0ao curkl6s c1oi8sje c8g4rbm c18lwzes ck8x7n0 cfw1inn c11djwk1 ci007ia c1dftv06 c1m80p2u c3bspns c1vee3qe c2w17zg cqm1fiw c1rkddb1 cwwbqcf c15pshk crld1xj ciwacd0 cwek1tm ${"button text-style-allcaps w-button"}`} />
+className={`w-element ${"button text-style-allcaps w-button"}`} />
 </form>
 <div
-className={`w-element cmh603w c1fs6dqh cq967bf c1fqmh6z ${"w-form-done"}`}>
+className={`w-element ${"w-form-done"}`}>
 <div
 className={`w-element`}>
 {"Thank you! Your submission has been received!"}
 </div>
 </div>
 <div
-className={`w-element cmh603w c1a3mfqd c1xxgguf cy7z5dk ${"w-form-fail"}`}>
+className={`w-element ${"w-form-fail"}`}>
 <div
 className={`w-element`}>
 {"Oops! Something went wrong while submitting the form."}
@@ -2585,75 +2585,75 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element c1sxiycd c10g9ild c2nqfm1 ccp0548 cn1i7a5 ${"cpa_apply_content"}`}>
+className={`w-element ${"cpa_apply_content"}`}>
 <div
-className={`w-element c1svrc9o cc7k8p0 ${"cpa_apply_step"}`}>
+className={`w-element ${"cpa_apply_step"}`}>
 <div
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Step 2."}
 </div>
 <div
-className={`w-element cte2vf8 c8g4rbm cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
 {"Screening & Approval"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <p
 className={`w-element`}>
 {"Applications are reviewed on a case-by-case basis, and eligible startups will receive approval within 10 days."}
 </p>
 </div>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1svrc9o cc7k8p0 ${"cpa_apply_step"}`}>
+className={`w-element ${"cpa_apply_step"}`}>
 <div
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Step 3."}
 </div>
 <div
-className={`w-element cte2vf8 c8g4rbm cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
 {"Get Started with TurtleCI"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <p
 className={`w-element`}>
 {"Approved startups will receive a personalised subscription link with a video tutorial to ensure a smooth onboarding process."}
 </p>
 </div>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1svrc9o cc7k8p0 ${"cpa_apply_step"}`}>
+className={`w-element ${"cpa_apply_step"}`}>
 <div
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Step 4."}
 </div>
 <div
-className={`w-element cte2vf8 c8g4rbm cnsje4e c1noxpoj c18ghmj7 c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
+className={`w-element ${"heading-style-h4 text-weight-semibold text-color-brand"}`}>
 {"Connect with Our Community"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <p
 className={`w-element`}>
 {"Access our Discord group to learn and share insights with other developers and co-founders."}
 </p>
 </div>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1le6v90 c1e7vj8g c1i4vvfx carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 cdzvqh6 cz3bf02 cz1dbqk cmtw8ia c1svrc9o c2uge19 cyb4w8x c1kdmmgj c128olfu c13z7luj c1mtge5i cjt5b5a cc7k8p0 c1xf2fqr chhzgn6 c272cgt c1xbq8bc cx7q1ul ${"cpa_apply_eligible"}`}>
+className={`w-element ${"cpa_apply_eligible"}`}>
 <h3
 id={"w-node-fa612c6e-3df0-392a-7490-c0c92875afec-e97e7802"}
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"Are You Eligible?"}
 </h3>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 chq3ky0 cfe1vus c1ou5bby c7xx1s3 ${"cpa_apply_item"}`}>
+className={`w-element ${"cpa_apply_item"}`}>
 <div
-className={`w-element c1pj3xl3 c1my0hcn c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_apply_eligible_ic w-embed"}`}>
+className={`w-element ${"cpa_apply_eligible_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -2668,14 +2668,14 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c1chu7bs ${"text-weight-medium"}`}>
+className={`w-element ${"text-weight-medium"}`}>
 {"Your Startup is established within the last 5 years."}
 </div>
 </div>
 <div
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 chq3ky0 cfe1vus c1ou5bby c7xx1s3 ${"cpa_apply_item"}`}>
+className={`w-element ${"cpa_apply_item"}`}>
 <div
-className={`w-element c1pj3xl3 c1my0hcn c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_apply_eligible_ic w-embed"}`}>
+className={`w-element ${"cpa_apply_eligible_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -2690,15 +2690,15 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c1chu7bs ${"text-weight-medium"}`}>
+className={`w-element ${"text-weight-medium"}`}>
 {"Have a team size of 50 or fewer employees."}
 </div>
 </div>
 <div
 id={"w-node-_106216ce-d528-92c9-bbac-d659ef1c0767-e97e7802"}
-className={`w-element c12lvo49 c8gnt76 c1y39kfe c7xx1rg cdzvqh6 chq3ky0 cfe1vus c1ou5bby c7xx1s3 ${"cpa_apply_item"}`}>
+className={`w-element ${"cpa_apply_item"}`}>
 <div
-className={`w-element c1pj3xl3 c1my0hcn c1noxpoj c1a91cgv cdznpsm c1kkah6p ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_apply_eligible_ic w-embed"}`}>
+className={`w-element ${"cpa_apply_eligible_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -2713,7 +2713,7 @@ className={`w-element`} />
 </svg>
 </div>
 <div
-className={`w-element c1chu7bs ${"text-weight-medium"}`}>
+className={`w-element ${"text-weight-medium"}`}>
 {"Be planning to use CI/CD to streamline development processes."}
 </div>
 </div>
@@ -2726,62 +2726,62 @@ className={`w-element c1chu7bs ${"text-weight-medium"}`}>
 </section>
 <section
 opacity-entry={"true"}
-className={`w-element ceqyts6 c1vtrtst ccwjzqv ci2109k c1dv3tq7 ${"cpa_reviews"}`}>
+className={`w-element ${"cpa_reviews"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c8d04es ccwjzqv c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global z-index-1"}`}>
+className={`w-element ${"padding-global z-index-1"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <h2
-className={`w-element c8g4rbm c1fs6dqh ${"text-weight-semibold text-align-center"}`}>
+className={`w-element ${"text-weight-semibold text-align-center"}`}>
 {"Hear what our clients say about TurtleCI"}
 </h2>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
-className={`w-element c1i7ve6l c2q6o0k c1viuxvl czrt1di c13qfgf c10rtf3d c18akvbr c1qdbp4w c168g7wn c1tx6pu8 c1wzutdz c1ml4qhu ${"cpa_reviews_grid"}`}>
+className={`w-element ${"cpa_reviews_grid"}`}>
 <div
-className={`w-element c1le6v90 c1e7vj8g carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_reviews_item"}`}>
+className={`w-element ${"cpa_reviews_item"}`}>
 <p
-className={`w-element c20zflo ${"text-size-lg"}`}>
+className={`w-element ${"text-size-lg"}`}>
 {"As a startup, every dollar counts. "}
 <span
-className={`w-element cn9ibz0 c1noxpoj c18ghmj7 ${"text-weight-bold text-color-brand"}`}>
+className={`w-element ${"text-weight-bold text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 {" has been a game-changer for us, providing enterprise-level CI/CD capabilities without breaking the bank. We no longer need to invest heavily in infrastructure—everything runs seamlessly in the cloud. It’s the perfect solution for scaling startups looking to streamline their development without massive overhead costs."}
 </p>
 <div
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"— Emily Rodriguez"}
 </div>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_reviews_item"}`}>
+className={`w-element ${"cpa_reviews_item"}`}>
 <p
-className={`w-element c20zflo ${"text-size-lg"}`}>
+className={`w-element ${"text-size-lg"}`}>
 <span
-className={`w-element cn9ibz0 c1noxpoj c18ghmj7 ${"text-weight-bold text-color-brand"}`}>
+className={`w-element ${"text-weight-bold text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 {" has completely transformed how our team collaborates on builds and deployments. The real-time feedback loop allows our developers to work together effortlessly, catching issues early and ensuring smooth releases. It’s like having an extra set of hands optimizing our workflow 24/7. Highly recommend it for teams that value speed and efficiency!"}
 </p>
 <div
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"— James Carter"}
 </div>
 </div>
 <div
-className={`w-element c1le6v90 c1e7vj8g carupg6 cazdpea c1g67dw5 c74orcy cbplqux c1qu1cb1 cdzvqh6 c1hi5fbc cz3bf02 ${"cpa_reviews_item"}`}>
+className={`w-element ${"cpa_reviews_item"}`}>
 <p
-className={`w-element c20zflo covda95 c1mjz48u c1ea4sxw ${"text-size-lg is-campaign-reviews"}`}>
+className={`w-element ${"text-size-lg is-campaign-reviews"}`}>
 <span
-className={`w-element cn9ibz0 c1noxpoj c18ghmj7 ${"text-weight-bold text-color-brand"}`}>
+className={`w-element ${"text-weight-bold text-color-brand"}`}>
 {"TurtleCI"}
 </span>
 {" helped us refine our development pipeline, automating repetitive tasks and reducing deployment times drastically. Our engineers can now focus on building great features instead of wrestling with manual configurations. The result? A highly efficient workflow that keeps us ahead of the competition."}
 </p>
 <div
-className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
+className={`w-element ${"text-weight-semibold"}`}>
 {"— Nathan Williams"}
 </div>
 </div>
@@ -2789,7 +2789,7 @@ className={`w-element c8g4rbm ${"text-weight-semibold"}`}>
 </div>
 </div>
 <div
-className={`w-element c6hffsk c1ilrpex c18r95i3 c1rfbdao cxsker3 cj69bmq ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1w06jk5 cr1wuzi cc4i9wg c1msuzd2 cv3utw2 c18s693l cadppsj c8cgvpx c1ll8n70 clel825 celfunb cvwt32x c797w09 c1yfeu9z cgchj3n c12vkyio c1slws0n c1i75aid c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_reviews_bg-ic w-embed"}`}>
+className={`w-element ${"cpa_reviews_bg-ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -2805,45 +2805,45 @@ className={`w-element`} />
 </div>
 </section>
 <div
-className={`w-element co29il6 ${"cpa_divider-wrap"}`}>
+className={`w-element ${"cpa_divider-wrap"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element cggrpw0 c1kuwk32 c1wiw99h ${"cpa_divider"}`} />
+className={`w-element ${"cpa_divider"}`} />
 </div>
 </div>
 </div>
 <section
 id={"faq"}
 opacity-entry={"true"}
-className={`w-element cwqsbw cy4qr4q ${"cpa_faq"}`}>
+className={`w-element ${"cpa_faq"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-sm w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-sm w-container"}`}>
 <h2
-className={`w-element c8g4rbm c1fs6dqh ${"text-weight-semibold text-align-center"}`}>
+className={`w-element ${"text-weight-semibold text-align-center"}`}>
 {"Frequently Asked Questions"}
 </h2>
 <div
-className={`w-element c1kuwk32 c8dohr6 ca7ovlo ${"spacer-64px"}`} />
+className={`w-element ${"spacer-64px"}`} />
 <div
 className={`w-element`}>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"1fffd5ce-21ce-05a0-4c55-a2303a5963f7"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h3
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"What is CI/CD, and why does my startup need it?"}
 </h3>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c197ntxo cbplqux c1g7apm c7xx1rg c1s9hj7p cufrovc cdzvqh6 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon-2 w-embed"}`}>
+className={`w-element ${"rl_faq1_icon-2 w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -2862,9 +2862,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"CI/CD (Continuous Integration/Continuous Deployment) automates your development processes, ensuring faster delivery, fewer errors, and seamless collaboration."}
@@ -2873,18 +2873,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"bb921ef6-58ce-5e25-cd50-58a3b8922a2a"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h3
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Why should I choose TurtleCI over a free CI/CD tool?"}
 </h3>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c197ntxo cbplqux c1g7apm c7xx1rg c1s9hj7p cufrovc cdzvqh6 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon-2 w-embed"}`}>
+className={`w-element ${"rl_faq1_icon-2 w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -2903,9 +2903,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Free CI/CD tools often come with limitations on build minutes, concurrency, and enterprise-level features. TurtleCI offers unlimited scalability, faster build times, and enhanced workflow automation to help startups scale efficiently without technical bottlenecks."}
@@ -2914,18 +2914,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"6431cc96-e930-2774-e593-f87985d7a6f8"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h3
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Does TurtleCI support complex workflows for growing startups?"}
 </h3>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c197ntxo cbplqux c1g7apm c7xx1rg c1s9hj7p cufrovc cdzvqh6 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon-2 w-embed"}`}>
+className={`w-element ${"rl_faq1_icon-2 w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -2944,9 +2944,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Absolutely! TurtleCI is built to support startups as they scale, offering customisable workflows, parallel testing, and seamless integrations with your existing development stack. Whether you’re launching an MVP or handling enterprise-grade deployments, TurtleCI ensures a smooth and optimised pipeline."}
@@ -2955,18 +2955,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"1f2549bc-04a7-3612-8920-ad35784f682f"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h3
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"Is TurtleCI really free for 18 months?"}
 </h3>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c197ntxo cbplqux c1g7apm c7xx1rg c1s9hj7p cufrovc cdzvqh6 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon-2 w-embed"}`}>
+className={`w-element ${"rl_faq1_icon-2 w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -2985,9 +2985,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"Yes! Selected startups will receive a full subscription, valued at $183/month, at no cost for the first 18 months."}
@@ -2996,18 +2996,18 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cbplqux c1y39kfe cp7hr9q ${"rl_faq1_accordion"}`}>
+className={`w-element ${"rl_faq1_accordion"}`}>
 <div
 data-w-id={"2c9c1fd5-ab92-091d-8924-a717ff2b2b48"}
-className={`w-element c1h4ztf3 cvb1b3u cwwbqcf c13lcbtl c7xx1rg c1w2oi28 c137irjg cscfrjp ck8x7n0 cfw1inn c11djwk1 ci007ia cdzvqh6 c12z5fd8 c1i2qi3y cfxsg04 c1emwurg c7ngagw ${"rl_faq1_question"}`}>
+className={`w-element ${"rl_faq1_question"}`}>
 <h3
-className={`w-element c20zflo c8g4rbm cd92vsb ${"text-size-lg text-weight-semibold"}`}>
+className={`w-element ${"text-size-lg text-weight-semibold"}`}>
 {"What happens after the 18-month period?"}
 </h3>
 <div
-className={`w-element cn68m5r c1wz6rw7 ci9qf13 ${"rl_faq1_icon-wrapper"}`}>
+className={`w-element ${"rl_faq1_icon-wrapper"}`}>
 <div
-className={`w-element c197ntxo cbplqux c1g7apm c7xx1rg c1s9hj7p cufrovc cdzvqh6 ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1wz6rw7 c1vfu5j3 ci9qf13 ckhyoxg c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"rl_faq1_icon-2 w-embed"}`}>
+className={`w-element ${"rl_faq1_icon-2 w-embed"}`}>
 <svg
 width={" 100%"}
 height={" 100%"}
@@ -3026,9 +3026,9 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element cfko4c5 cmcjy5s c1kuwk32 c1vd2j6y caejmnp ${"rl_faq1_answer"}`}>
+className={`w-element c1kuwk32 c1vd2j6y ${"rl_faq1_answer"}`}>
 <div
-className={`w-element c1o28xnq c12lh4mn c1rv4wuu cze7299 ${"rl_faq1_answer-wrapper"}`}>
+className={`w-element ${"rl_faq1_answer-wrapper"}`}>
 <p
 className={`w-element`}>
 {"We offer exclusive discounts for startups to transition to our paid plans."}
@@ -3042,53 +3042,53 @@ className={`w-element`}>
 </section>
 <footer
 opacity-entry={"true"}
-className={`w-element c1tvjxkp c8dohr6 cx9dked ${"cpa_footer"}`}>
+className={`w-element ${"cpa_footer"}`}>
 <div
-className={`w-element c1hxqw1p caai4an cmh603w c1nct5tu c17wenqj c170v7gy c13s97cq c1jir8pn c140mlhs cfo0qtk c1i1wffc ${"padding-global"}`}>
+className={`w-element ${"padding-global"}`}>
 <div
-className={`w-element c1v0fx6w ctx8ibw c14jek5s c1chl3ha c1kuwk32 c4gouwl cfko4c5 cmcjy5s ctbzh2u c16agd5o caxr30d caqe5xq c1c8uskx cmbbocb c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 cm2lply c431rxe ${"w-layout-blockcontainer container-lg w-container"}`}>
+className={`w-element ${"w-layout-blockcontainer container-lg w-container"}`}>
 <div
-className={`w-element c1i7ve6l c2q6o0k c1fs6dqh cbplqux c1qu1cb1 c1y39kfe c7xx1rg c13cc2b1 ctx8ibw c14jek5s cdzvqh6 ${"cpa_footer_main"}`}>
+className={`w-element ${"cpa_footer_main"}`}>
 <Image
 src={"/turtleci-import/images/TurtleCI-logo.png"}
 loading={"lazy"}
 width={70}
 alt={"TurtleCI Main Logo"}
-className={`w-image c15enxs9 c1w0yz8n ${"cpa_footer_logo"}`} />
+className={`w-image ${"cpa_footer_logo"}`} />
 <p
 className={`w-element`}>
 {"Automate your build, test, and deploy processes across MacOS or Linux with a simple, powerful CI/CD platform. Designed to save you time and resources."}
 </p>
 </div>
 <div
-className={`w-element c1jwyp7v ${"spacer-120px"}`} />
+className={`w-element ${"spacer-120px"}`} />
 <div
-className={`w-element cvdimgi c1fs6dqh c193feeu c6s7woo c1qpv6k ${"text-size-sm text-align-center is-campaign-footer"}`}>
+className={`w-element ${"text-size-sm text-align-center is-campaign-footer"}`}>
 {"@2025 - 2026 TurtleCI. All Rights Reserved"}
 </div>
 </div>
 </div>
 </footer>
 <div
-className={`w-element c19r7nxq cgmfdf6 co29il6 c1gvonls cs2bh2 c1ro25gr c1m333il cds5ulr cjfjc1q cxnec9k caoid09 ${"cpa_cover"}`} />
+className={`w-element ${"cpa_cover"}`} />
 <div
-className={`w-element c1hw3lfr co29il6 c1aee7dx cq8p6mw c1ie99sc c1tlh46y cndrtrt cdzvqh6 c1m333il c1tp54gh cjfjc1q cxnec9k caoid09 c1va3hnz cezqez3 c1nkc5xz c169rbwe ${"floating-btn-wrap"}`}>
+className={`w-element ${"floating-btn-wrap"}`}>
 <div
-className={`w-element ccwjzqv ${"fomo-wrap"}`}>
+className={`w-element ${"fomo-wrap"}`}>
 <div
-className={`w-element c8d04es c1ungi45 co29il6 c1fs6dqh c6fca7a c1v8ff5v c5g9k3b c1b7qqpo cpf5oe2 c1iel4hw c1ilrpex c1tp54gh c1rfbdao cxnec9k caoid09 cfko4c5 cmcjy5s cqq5fes c1pjsvdt c1xjz1nz ${"fomo_expanded"}`}>
+className={`w-element ${"fomo_expanded"}`}>
 <div
-className={`w-element c8d04es c12tmhp5 cbplqux c1qu1cb1 c1g7apm c7xx1rg cdzvqh6 ccwjzqv c14fh8ap c1yteglu c1auxpmy ${"fomo_expanded_top"}`}>
+className={`w-element ${"fomo_expanded_top"}`}>
 <div
-className={`w-element cvd9qfr cjxjibi c8g4rbm ${"fomo-expanded_number"}`}>
+className={`w-element ${"fomo-expanded_number"}`}>
 {"118"}
 </div>
 <div
-className={`w-element c1kuwk32 c1yzoccs ${"spacer-12px"}`} />
+className={`w-element ${"spacer-12px"}`} />
 <div
-className={`w-element cij1jqz ${"fomo_expanded_text-wrap"}`}>
+className={`w-element ${"fomo_expanded_text-wrap"}`}>
 <div
-className={`w-element cn9ibz0 c3bspns ${"text-weight-bold text-style-allcaps"}`}>
+className={`w-element ${"text-weight-bold text-style-allcaps"}`}>
 <span
 className={`w-element`}>
 {"startups joined TurtleCI"}
@@ -3102,7 +3102,7 @@ className={`w-element`}>
 </div>
 </div>
 <div
-className={`w-element cgakeqw cbi1l3h c1ilrpex c1tp54gh cjfjc1q cxnec9k c19u1i0f ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"fomo-expanded_arrow w-embed"}`}>
+className={`w-element ${"fomo-expanded_arrow w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -3138,24 +3138,24 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c1tbtc05 ck80r54 c14fh8ap c1yteglu c1auxpmy ${"fomo_expanded_bottom"}`}>
+className={`w-element ${"fomo_expanded_bottom"}`}>
 <div
-className={`w-element cte2vf8 c1chu7bs cnsje4e c43eehi c1gkpfk9 ${"heading-style-h4 text-weight-medium"}`}>
+className={`w-element ${"heading-style-h4 text-weight-medium"}`}>
 {"Act Fast! Limited Spots Available!"}
 </div>
 <div
-className={`w-element c1kuwk32 ch73i66 ${"spacer-16px"}`} />
+className={`w-element ${"spacer-16px"}`} />
 <p
-className={`w-element ck80r54 ${"text-color-alternate"}`}>
+className={`w-element ${"text-color-alternate"}`}>
 {"Don’t miss your chance to take your startup to the next level. Apply now to join the growing list of innovative startups using TurtleCI to build, test, and deploy faster than ever."}
 </p>
 <div
-className={`w-element c1kuwk32 cic3b2g c6a5ych c1th8947 c2dxj8u cs0nmy5 ${"spacer-32px"}`} />
+className={`w-element ${"spacer-32px"}`} />
 <a
 href={"#apply"}
-className={`w-element c7q667e c1kuwk32 c1tpxml8 c5c9eqz c1r7r9op cjge562 cklimrq c1yzoccs cndrtrt c1eka9gg c1tlh46y ckwuexc cmh603w c1xn1ugd ${"fomo-expanded_btn w-inline-block"}`}>
+className={`w-element ${"fomo-expanded_btn w-inline-block"}`}>
 <div
-className={`w-element c3bspns cn9ibz0 ${"text-style-allcaps text-weight-bold"}`}>
+className={`w-element ${"text-style-allcaps text-weight-bold"}`}>
 {"Apply Now"}
 </div>
 </a>
@@ -3164,11 +3164,11 @@ className={`w-element c3bspns cn9ibz0 ${"text-style-allcaps text-weight-bold"}`}
 </div>
 <a
 href={"#hero"}
-className={`w-element c1hw3lfr c13dsrcw cvv99b2 c1ungi45 c1tpxml8 cbplqux c1qu1cb1 c1g7apm c7xx1rg c1lphpb0 cdquffd c5nnka2 cag1f6 cimea03 cmh603w ccwjzqv ckwuexc c1xn1ugd ${"cpa_btt-btn w-inline-block"}`}>
+className={`w-element ${"cpa_btt-btn w-inline-block"}`}>
 <div
-className={`w-element c7q667e c1j6tu1q c89nuzw czdmh79 c1bmznli c1g7apm c7xx1rg c1xeu4lt c1lmt071 cdzvqh6 c1hi5fbc c1oenadl c1bzsfob ca8zumh c2ac6n5 ${"cpa_btt-btn_ic-wrap"}`}>
+className={`w-element ${"cpa_btt-btn_ic-wrap"}`}>
 <div
-className={`w-element c1pj3xl3 c1my0hcn ctaq7lt cdzqvh9 ch2lfjv c130dlrg c1j84joi cqgu1dd cp8mt3t c16r31we c4s3jf c1tfz2nu c1isl1ly c1tf8zie c1dmj322 ce17mxc cv7k4t c14iwcl4 c19adc7b c1tbqqby c189uwjb c1vro1vt c93ul7a c5bq8c7 c8arrar cynjjrm cw4w1ux c5fry1g clu1xzz c1kwepi8 ${"cpa_btt-btn_ic w-embed"}`}>
+className={`w-element ${"cpa_btt-btn_ic w-embed"}`}>
 <svg
 xmlns={"http://www.w3.org/2000/svg"}
 width={"100%"}
@@ -3186,7 +3186,7 @@ className={`w-element`} />
 </div>
 </div>
 <div
-className={`w-element c8g4rbm c75fxaq c1ijzp3p ${"text-weight-semibold hide-mobile-portrait"}`}>
+className={`w-element ${"text-weight-semibold hide-mobile-portrait"}`}>
 {"Back to Top"}
 </div>
 </a>

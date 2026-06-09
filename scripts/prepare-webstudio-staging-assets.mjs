@@ -1,4 +1,4 @@
-import { copyFile, mkdir } from "node:fs/promises";
+import { access, copyFile, mkdir } from "node:fs/promises";
 import { createRequire } from "node:module";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -12,6 +12,15 @@ const stagingAssetDir = join(root, "turtleci-webstudio-staging/public/assets");
 const builderAssetDir = join(root, "webstudio-builder/apps/builder/public/cgi/asset");
 
 const destinations = [stagingAssetDir, builderAssetDir];
+
+const fileExists = async (path) => {
+  try {
+    await access(path);
+    return true;
+  } catch {
+    return false;
+  }
+};
 
 const fontAssets = [
   {
@@ -89,6 +98,11 @@ const writeToDestinations = async (name, buffer) => {
 };
 
 for (const asset of fontAssets) {
+  const destinationPaths = destinations.map((destination) => join(destination, asset.name));
+  const alreadyAvailable = await Promise.all(destinationPaths.map(fileExists));
+  if (alreadyAvailable.every(Boolean)) {
+    continue;
+  }
   const response = await fetch(asset.url);
   if (!response.ok) {
     throw new Error(`Failed to download ${asset.name}: ${response.status}`);

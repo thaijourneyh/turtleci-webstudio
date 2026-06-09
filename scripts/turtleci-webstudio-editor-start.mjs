@@ -9,6 +9,7 @@ const builderDir = resolve(rootDir, "webstudio-builder");
 const composeFile = resolve(rootDir, "docker-compose.webstudio-local.yml");
 const pgPort = process.env.PGPORT ?? "5433";
 const postgrestPort = process.env.POSTGREST_PORT ?? "3001";
+const projectId = process.env.WEBSTUDIO_PROJECT_ID ?? "a99d5fa7-683f-4129-974a-e8564180e8df";
 
 const env = {
   ...process.env,
@@ -125,9 +126,28 @@ await run("Apply Webstudio migrations", "pnpm", [
   cwd: builderDir,
 });
 
+await run("Ensure local TurtleCI project exists", "pnpm", [
+  "tsx",
+  "--conditions=webstudio",
+  "scripts/bootstrap-local-project.ts",
+  projectId,
+  "TurtleCI",
+  "turtleci-staging",
+  "hello@webstudio.is",
+], {
+  cwd: builderDir,
+});
+
+await run("Import TurtleCI Webflow project into local editor", "node", [
+  resolve(rootDir, "scripts/turtleci-webstudio-import.mjs"),
+], {
+  cwd: rootDir,
+});
+
 console.log("\n> Starting Webstudio Builder");
 console.log("> Login secret: 0000");
 console.log("> Local editor will use persistent state in .webstudio-home/");
+console.log("> Open: https://vite.wstd.dev:5174/dashboard");
 
 const builder = spawn("pnpm", ["--filter=@webstudio-is/builder", "dev"], {
   cwd: builderDir,
